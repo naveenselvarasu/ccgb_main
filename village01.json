@@ -1,0 +1,8834 @@
+[
+{
+  "model": "knowledgebase.village",
+  "pk": 1,
+  "fields": {
+    "hobli": 1,
+    "name": "Kurumbampalayam"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 2,
+  "fields": {
+    "hobli": 2,
+    "name": "Alathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 3,
+  "fields": {
+    "hobli": 3,
+    "name": "Gobichettipalayam"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 4,
+  "fields": {
+    "hobli": 4,
+    "name": "Gundlupet town"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 5,
+  "fields": {
+    "hobli": 5,
+    "name": "Bettadamadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 6,
+  "fields": {
+    "hobli": 5,
+    "name": "Bhogayyyanahundi village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 7,
+  "fields": {
+    "hobli": 5,
+    "name": "Begur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 8,
+  "fields": {
+    "hobli": 5,
+    "name": "Somahalli village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 9,
+  "fields": {
+    "hobli": 6,
+    "name": "Gopalpura village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 10,
+  "fields": {
+    "hobli": 7,
+    "name": "Bankahalli village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 11,
+  "fields": {
+    "hobli": 8,
+    "name": "Channagundi village "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 12,
+  "fields": {
+    "hobli": 9,
+    "name": "Yaraganahalli village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 13,
+  "fields": {
+    "hobli": 10,
+    "name": "Terakanambi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 14,
+  "fields": {
+    "hobli": 28,
+    "name": "Bheemanabeedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 15,
+  "fields": {
+    "hobli": 14,
+    "name": "Berambadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 16,
+  "fields": {
+    "hobli": 5,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 17,
+  "fields": {
+    "hobli": 7,
+    "name": "Ballurundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 18,
+  "fields": {
+    "hobli": 8,
+    "name": "Bankahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 19,
+  "fields": {
+    "hobli": 11,
+    "name": "Bargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 20,
+  "fields": {
+    "hobli": 16,
+    "name": "Basaveswara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 21,
+  "fields": {
+    "hobli": 8,
+    "name": "Bavikere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 22,
+  "fields": {
+    "hobli": 14,
+    "name": "Berambadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 23,
+  "fields": {
+    "hobli": 11,
+    "name": "Bheemanabeedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 24,
+  "fields": {
+    "hobli": 14,
+    "name": "Channamallipura  maddur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 25,
+  "fields": {
+    "hobli": 20,
+    "name": "Depapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 26,
+  "fields": {
+    "hobli": 18,
+    "name": "Doddakavalande nerle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 27,
+  "fields": {
+    "hobli": 28,
+    "name": "Doddinduvadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 28,
+  "fields": {
+    "hobli": 66,
+    "name": "Hongahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 29,
+  "fields": {
+    "hobli": 14,
+    "name": "Honnegowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 30,
+  "fields": {
+    "hobli": 19,
+    "name": "Igglore"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 31,
+  "fields": {
+    "hobli": 26,
+    "name": "Kandayyanapalya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 32,
+  "fields": {
+    "hobli": 70,
+    "name": "Kethahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 33,
+  "fields": {
+    "hobli": 11,
+    "name": "Kodasoge"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 34,
+  "fields": {
+    "hobli": 21,
+    "name": "Kothalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 35,
+  "fields": {
+    "hobli": 14,
+    "name": "Kunagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 36,
+  "fields": {
+    "hobli": 24,
+    "name": "Kuvempunagar"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 37,
+  "fields": {
+    "hobli": 26,
+    "name": "Lokkanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 38,
+  "fields": {
+    "hobli": 7,
+    "name": "Mallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 39,
+  "fields": {
+    "hobli": 27,
+    "name": "Pasha"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 40,
+  "fields": {
+    "hobli": 22,
+    "name": "Patramangalam"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 41,
+  "fields": {
+    "hobli": 70,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 42,
+  "fields": {
+    "hobli": 23,
+    "name": "Sagare"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 43,
+  "fields": {
+    "hobli": 21,
+    "name": "Sheelavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 44,
+  "fields": {
+    "hobli": 23,
+    "name": "Sriramabadavane"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 45,
+  "fields": {
+    "hobli": 21,
+    "name": "Terakanambihundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 46,
+  "fields": {
+    "hobli": 25,
+    "name": "Thoravally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 47,
+  "fields": {
+    "hobli": 17,
+    "name": "Uganedahundi  udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 49,
+  "fields": {
+    "hobli": 17,
+    "name": "Yanagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 50,
+  "fields": {
+    "hobli": 11,
+    "name": "Yariyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 51,
+  "fields": {
+    "hobli": 14,
+    "name": "Berambadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 52,
+  "fields": {
+    "hobli": 5,
+    "name": "Kotekere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 53,
+  "fields": {
+    "hobli": 78,
+    "name": "Maddur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 54,
+  "fields": {
+    "hobli": 11,
+    "name": "Maddayya ahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 55,
+  "fields": {
+    "hobli": 11,
+    "name": "Bimanabeedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 56,
+  "fields": {
+    "hobli": 66,
+    "name": "Desipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 57,
+  "fields": {
+    "hobli": 29,
+    "name": "Honnegowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 58,
+  "fields": {
+    "hobli": 10,
+    "name": "Huradahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 59,
+  "fields": {
+    "hobli": 14,
+    "name": "Kannegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 60,
+  "fields": {
+    "hobli": 30,
+    "name": "Kuttegowdarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 61,
+  "fields": {
+    "hobli": 10,
+    "name": "Mudaguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 62,
+  "fields": {
+    "hobli": 10,
+    "name": "Padaguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 63,
+  "fields": {
+    "hobli": 29,
+    "name": "Puthanpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 64,
+  "fields": {
+    "hobli": 31,
+    "name": "Ragavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 65,
+  "fields": {
+    "hobli": 14,
+    "name": "Gopalpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 66,
+  "fields": {
+    "hobli": 14,
+    "name": "Kalligowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 67,
+  "fields": {
+    "hobli": 14,
+    "name": "Kallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 68,
+  "fields": {
+    "hobli": 14,
+    "name": "Kunagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 69,
+  "fields": {
+    "hobli": 14,
+    "name": "Maguvinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 70,
+  "fields": {
+    "hobli": 29,
+    "name": "Muguvinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 71,
+  "fields": {
+    "hobli": 14,
+    "name": "Pasayyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 72,
+  "fields": {
+    "hobli": 14,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 73,
+  "fields": {
+    "hobli": 29,
+    "name": "Beechanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 74,
+  "fields": {
+    "hobli": 14,
+    "name": "Lakkipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 75,
+  "fields": {
+    "hobli": 29,
+    "name": "Maddayya ahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 76,
+  "fields": {
+    "hobli": 14,
+    "name": "Channamallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 77,
+  "fields": {
+    "hobli": 14,
+    "name": "Channamallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 78,
+  "fields": {
+    "hobli": 11,
+    "name": "Muntipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 79,
+  "fields": {
+    "hobli": 2,
+    "name": "Kelupura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 80,
+  "fields": {
+    "hobli": 17,
+    "name": "Badagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 81,
+  "fields": {
+    "hobli": 2,
+    "name": "Bokkepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 82,
+  "fields": {
+    "hobli": 2,
+    "name": "Chikkakempehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 83,
+  "fields": {
+    "hobli": 2,
+    "name": "Chunchanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 84,
+  "fields": {
+    "hobli": 2,
+    "name": "Harathale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 85,
+  "fields": {
+    "hobli": 2,
+    "name": "Kalale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 86,
+  "fields": {
+    "hobli": 2,
+    "name": "Nerle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 87,
+  "fields": {
+    "hobli": 2,
+    "name": "P marahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 88,
+  "fields": {
+    "hobli": 2,
+    "name": "Sindhuvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 89,
+  "fields": {
+    "hobli": 2,
+    "name": "Ugedanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 90,
+  "fields": {
+    "hobli": 2,
+    "name": "Yanagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 91,
+  "fields": {
+    "hobli": 2,
+    "name": "Alaganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 92,
+  "fields": {
+    "hobli": 2,
+    "name": "Basavattige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 93,
+  "fields": {
+    "hobli": 2,
+    "name": "Bhaguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 94,
+  "fields": {
+    "hobli": 2,
+    "name": "Bhujanayyanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 95,
+  "fields": {
+    "hobli": 2,
+    "name": "Chikkakavalande"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 96,
+  "fields": {
+    "hobli": 2,
+    "name": "Chikkakowlande"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 97,
+  "fields": {
+    "hobli": 2,
+    "name": "Hedthale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 98,
+  "fields": {
+    "hobli": 2,
+    "name": "Hemaragala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 99,
+  "fields": {
+    "hobli": 2,
+    "name": "Kodalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 100,
+  "fields": {
+    "hobli": 2,
+    "name": "Kumbrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 101,
+  "fields": {
+    "hobli": 2,
+    "name": "Sannamallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 102,
+  "fields": {
+    "hobli": 2,
+    "name": "Siramahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 103,
+  "fields": {
+    "hobli": 17,
+    "name": "Badagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 104,
+  "fields": {
+    "hobli": 8,
+    "name": "Bankahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 105,
+  "fields": {
+    "hobli": 2,
+    "name": "Hediyala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 106,
+  "fields": {
+    "hobli": 8,
+    "name": "Bankahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 107,
+  "fields": {
+    "hobli": 2,
+    "name": "Channagowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 108,
+  "fields": {
+    "hobli": 8,
+    "name": "Chikkabargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 109,
+  "fields": {
+    "hobli": 8,
+    "name": "Ettige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 110,
+  "fields": {
+    "hobli": 2,
+    "name": "Hadanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 111,
+  "fields": {
+    "hobli": 2,
+    "name": "Halemala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 112,
+  "fields": {
+    "hobli": 2,
+    "name": "Haralahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 113,
+  "fields": {
+    "hobli": 2,
+    "name": "Honaragalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 114,
+  "fields": {
+    "hobli": 2,
+    "name": "Hoonasuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 115,
+  "fields": {
+    "hobli": 2,
+    "name": "Hosakote"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 116,
+  "fields": {
+    "hobli": 2,
+    "name": "Hullahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 117,
+  "fields": {
+    "hobli": 2,
+    "name": "Hunasoor"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 118,
+  "fields": {
+    "hobli": 2,
+    "name": "Hunasoor circle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 119,
+  "fields": {
+    "hobli": 2,
+    "name": "Hunasooru circle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 120,
+  "fields": {
+    "hobli": 2,
+    "name": "Jayalakshmipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 121,
+  "fields": {
+    "hobli": 2,
+    "name": "Jompanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 122,
+  "fields": {
+    "hobli": 2,
+    "name": "Kadabeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 123,
+  "fields": {
+    "hobli": 2,
+    "name": "Karagala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 124,
+  "fields": {
+    "hobli": 72,
+    "name": "Karepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 125,
+  "fields": {
+    "hobli": 8,
+    "name": "M c talalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 126,
+  "fields": {
+    "hobli": 2,
+    "name": "Madaruru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 127,
+  "fields": {
+    "hobli": 2,
+    "name": "Muguthanamule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 128,
+  "fields": {
+    "hobli": 14,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 129,
+  "fields": {
+    "hobli": 7,
+    "name": "Vadayanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 130,
+  "fields": {
+    "hobli": 2,
+    "name": "Vadeyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 131,
+  "fields": {
+    "hobli": 8,
+    "name": "Yashavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 132,
+  "fields": {
+    "hobli": 5,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 133,
+  "fields": {
+    "hobli": 5,
+    "name": "Belachalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 134,
+  "fields": {
+    "hobli": 2,
+    "name": "Jannuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 135,
+  "fields": {
+    "hobli": 2,
+    "name": "Jannuru hosuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 136,
+  "fields": {
+    "hobli": 2,
+    "name": "Navilooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 137,
+  "fields": {
+    "hobli": 70,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 138,
+  "fields": {
+    "hobli": 2,
+    "name": "Vatalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 139,
+  "fields": {
+    "hobli": 2,
+    "name": "Yaraganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 140,
+  "fields": {
+    "hobli": 2,
+    "name": "Basapanapalya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 141,
+  "fields": {
+    "hobli": 2,
+    "name": "Beguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 142,
+  "fields": {
+    "hobli": 2,
+    "name": "Devanahalli moole"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 143,
+  "fields": {
+    "hobli": 2,
+    "name": "Hebosuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 144,
+  "fields": {
+    "hobli": 2,
+    "name": "Kagalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 145,
+  "fields": {
+    "hobli": 70,
+    "name": "Kethahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 146,
+  "fields": {
+    "hobli": 2,
+    "name": "Kothanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 147,
+  "fields": {
+    "hobli": 2,
+    "name": "Naguralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 148,
+  "fields": {
+    "hobli": 2,
+    "name": "Nalluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 149,
+  "fields": {
+    "hobli": 2,
+    "name": "Nalluru  moole"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 150,
+  "fields": {
+    "hobli": 2,
+    "name": "Naviluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 151,
+  "fields": {
+    "hobli": 2,
+    "name": "Santhemaralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 152,
+  "fields": {
+    "hobli": 2,
+    "name": "Yaragamballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 153,
+  "fields": {
+    "hobli": 2,
+    "name": "Udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 154,
+  "fields": {
+    "hobli": 29,
+    "name": "Bommalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 155,
+  "fields": {
+    "hobli": 10,
+    "name": "Kodasoge"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 156,
+  "fields": {
+    "hobli": 39,
+    "name": "Arakalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 157,
+  "fields": {
+    "hobli": 40,
+    "name": "Arakalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 158,
+  "fields": {
+    "hobli": 10,
+    "name": "B m  kattehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 159,
+  "fields": {
+    "hobli": 10,
+    "name": "Balachavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 160,
+  "fields": {
+    "hobli": 10,
+    "name": "Depapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 161,
+  "fields": {
+    "hobli": 2,
+    "name": "Ganiganooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 162,
+  "fields": {
+    "hobli": 2,
+    "name": "Ganinooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 163,
+  "fields": {
+    "hobli": 72,
+    "name": "Gattavadipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 164,
+  "fields": {
+    "hobli": 2,
+    "name": "Gejjenahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 165,
+  "fields": {
+    "hobli": 10,
+    "name": "Guruvinapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 166,
+  "fields": {
+    "hobli": 2,
+    "name": "Hallikerehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 167,
+  "fields": {
+    "hobli": 42,
+    "name": "Haraginapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 168,
+  "fields": {
+    "hobli": 30,
+    "name": "Harepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 169,
+  "fields": {
+    "hobli": 10,
+    "name": "Huthuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 170,
+  "fields": {
+    "hobli": 2,
+    "name": "Jannuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 171,
+  "fields": {
+    "hobli": 2,
+    "name": "Jannuru hosuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 172,
+  "fields": {
+    "hobli": 10,
+    "name": "Kadathalakattehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 173,
+  "fields": {
+    "hobli": 17,
+    "name": "Katnavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 174,
+  "fields": {
+    "hobli": 66,
+    "name": "Kilagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 175,
+  "fields": {
+    "hobli": 2,
+    "name": "Kiragasuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 176,
+  "fields": {
+    "hobli": 16,
+    "name": "Kothalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 177,
+  "fields": {
+    "hobli": 10,
+    "name": "Kundakere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 178,
+  "fields": {
+    "hobli": 10,
+    "name": "Lakkuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 179,
+  "fields": {
+    "hobli": 43,
+    "name": "Madalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 180,
+  "fields": {
+    "hobli": 75,
+    "name": "Madapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 181,
+  "fields": {
+    "hobli": 2,
+    "name": "Malapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 182,
+  "fields": {
+    "hobli": 7,
+    "name": "Heggadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 183,
+  "fields": {
+    "hobli": 2,
+    "name": "Moosavinakoppalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 184,
+  "fields": {
+    "hobli": 2,
+    "name": "Naviluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 185,
+  "fields": {
+    "hobli": 2,
+    "name": "Ramapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 186,
+  "fields": {
+    "hobli": 10,
+    "name": "Sheelavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 187,
+  "fields": {
+    "hobli": 66,
+    "name": "Shindanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 188,
+  "fields": {
+    "hobli": 10,
+    "name": "Somanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 189,
+  "fields": {
+    "hobli": 2,
+    "name": "Vatal"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 190,
+  "fields": {
+    "hobli": 43,
+    "name": "Yanagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 191,
+  "fields": {
+    "hobli": 43,
+    "name": "Yanagumba"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 192,
+  "fields": {
+    "hobli": 42,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 193,
+  "fields": {
+    "hobli": 14,
+    "name": "Bendaravadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 194,
+  "fields": {
+    "hobli": 30,
+    "name": "Harave"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 195,
+  "fields": {
+    "hobli": 70,
+    "name": "Kilalipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 196,
+  "fields": {
+    "hobli": 30,
+    "name": "Maleyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 197,
+  "fields": {
+    "hobli": 29,
+    "name": "Bachahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 198,
+  "fields": {
+    "hobli": 2,
+    "name": "Bokkapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 199,
+  "fields": {
+    "hobli": 17,
+    "name": "Chikkahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 200,
+  "fields": {
+    "hobli": 10,
+    "name": "Daribeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 201,
+  "fields": {
+    "hobli": 10,
+    "name": "Karakalamadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 202,
+  "fields": {
+    "hobli": 10,
+    "name": "Shilavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 203,
+  "fields": {
+    "hobli": 10,
+    "name": "Chirakanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 204,
+  "fields": {
+    "hobli": 10,
+    "name": "Karukkalmadhahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 205,
+  "fields": {
+    "hobli": 10,
+    "name": "Maalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 206,
+  "fields": {
+    "hobli": 29,
+    "name": "Malapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 207,
+  "fields": {
+    "hobli": 10,
+    "name": "Vaddagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 208,
+  "fields": {
+    "hobli": 10,
+    "name": "Yariyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 209,
+  "fields": {
+    "hobli": 5,
+    "name": "Bettadapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 210,
+  "fields": {
+    "hobli": 70,
+    "name": "Kengaki"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 211,
+  "fields": {
+    "hobli": 70,
+    "name": "Kethahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 212,
+  "fields": {
+    "hobli": 70,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 213,
+  "fields": {
+    "hobli": 10,
+    "name": "Kumachahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 214,
+  "fields": {
+    "hobli": 10,
+    "name": "Paramapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 215,
+  "fields": {
+    "hobli": 10,
+    "name": "Shyanatrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 216,
+  "fields": {
+    "hobli": 30,
+    "name": "Thamadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 217,
+  "fields": {
+    "hobli": 11,
+    "name": "Bedarapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 218,
+  "fields": {
+    "hobli": 2,
+    "name": "Heggotara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 219,
+  "fields": {
+    "hobli": 16,
+    "name": "Kalanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 220,
+  "fields": {
+    "hobli": 5,
+    "name": "Kuttegowdarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 221,
+  "fields": {
+    "hobli": 10,
+    "name": "Moodalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 222,
+  "fields": {
+    "hobli": 30,
+    "name": "Mukhadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 223,
+  "fields": {
+    "hobli": 10,
+    "name": "Terakanambihundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 224,
+  "fields": {
+    "hobli": 10,
+    "name": "Hooradahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 225,
+  "fields": {
+    "hobli": 42,
+    "name": "Araginapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 226,
+  "fields": {
+    "hobli": 45,
+    "name": "Bujaganpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 227,
+  "fields": {
+    "hobli": 42,
+    "name": "Hirebeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 228,
+  "fields": {
+    "hobli": 5,
+    "name": "Kabballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 229,
+  "fields": {
+    "hobli": 72,
+    "name": "Konanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 230,
+  "fields": {
+    "hobli": 30,
+    "name": "Maleeyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 231,
+  "fields": {
+    "hobli": 30,
+    "name": "Mukadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 232,
+  "fields": {
+    "hobli": 30,
+    "name": "Mukadalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 233,
+  "fields": {
+    "hobli": 70,
+    "name": "Nanjadevanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 234,
+  "fields": {
+    "hobli": 10,
+    "name": "Padagooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 235,
+  "fields": {
+    "hobli": 2,
+    "name": "Sriramapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 236,
+  "fields": {
+    "hobli": 16,
+    "name": "Ssgade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 237,
+  "fields": {
+    "hobli": 11,
+    "name": "Hosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 238,
+  "fields": {
+    "hobli": 43,
+    "name": "Linganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 239,
+  "fields": {
+    "hobli": 43,
+    "name": "Narasamangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 240,
+  "fields": {
+    "hobli": 43,
+    "name": "Nijalinganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 241,
+  "fields": {
+    "hobli": 10,
+    "name": "Thriyambakapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 242,
+  "fields": {
+    "hobli": 43,
+    "name": "Vaddarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 243,
+  "fields": {
+    "hobli": 43,
+    "name": "Vadgalpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 244,
+  "fields": {
+    "hobli": 29,
+    "name": "Hullapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 245,
+  "fields": {
+    "hobli": 2,
+    "name": "Kamarvadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 246,
+  "fields": {
+    "hobli": 46,
+    "name": "Kempanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 247,
+  "fields": {
+    "hobli": 14,
+    "name": "Mangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 248,
+  "fields": {
+    "hobli": 11,
+    "name": "Nadukal mule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 249,
+  "fields": {
+    "hobli": 2,
+    "name": "Agathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 250,
+  "fields": {
+    "hobli": 2,
+    "name": "Bidagalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 251,
+  "fields": {
+    "hobli": 2,
+    "name": "Hegganooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 252,
+  "fields": {
+    "hobli": 2,
+    "name": "Katavalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 253,
+  "fields": {
+    "hobli": 2,
+    "name": "Moodalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 254,
+  "fields": {
+    "hobli": 23,
+    "name": "Sagare"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 255,
+  "fields": {
+    "hobli": 2,
+    "name": "Santhipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 256,
+  "fields": {
+    "hobli": 8,
+    "name": "Telagumasahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 257,
+  "fields": {
+    "hobli": 23,
+    "name": "Thumbasoge"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 258,
+  "fields": {
+    "hobli": 2,
+    "name": "Uskuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 259,
+  "fields": {
+    "hobli": 8,
+    "name": "Agathuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 260,
+  "fields": {
+    "hobli": 36,
+    "name": "Beechanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 261,
+  "fields": {
+    "hobli": 2,
+    "name": "Bidrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 262,
+  "fields": {
+    "hobli": 69,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 263,
+  "fields": {
+    "hobli": 2,
+    "name": "Teranimunti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 264,
+  "fields": {
+    "hobli": 2,
+    "name": "Uyyamballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 266,
+  "fields": {
+    "hobli": 8,
+    "name": "B matakere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 267,
+  "fields": {
+    "hobli": 2,
+    "name": "Bankavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 268,
+  "fields": {
+    "hobli": 8,
+    "name": "Bavikere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 269,
+  "fields": {
+    "hobli": 2,
+    "name": "Channipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 270,
+  "fields": {
+    "hobli": 2,
+    "name": "Heerahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 271,
+  "fields": {
+    "hobli": 2,
+    "name": "Herehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 272,
+  "fields": {
+    "hobli": 2,
+    "name": "Kolipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 273,
+  "fields": {
+    "hobli": 2,
+    "name": "Maleyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 274,
+  "fields": {
+    "hobli": 8,
+    "name": "Matadakatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 275,
+  "fields": {
+    "hobli": 2,
+    "name": "Moleyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 276,
+  "fields": {
+    "hobli": 2,
+    "name": "Nadadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 277,
+  "fields": {
+    "hobli": 2,
+    "name": "Nemmanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 278,
+  "fields": {
+    "hobli": 2,
+    "name": "Hulikura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 279,
+  "fields": {
+    "hobli": 69,
+    "name": "Niluvagilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 280,
+  "fields": {
+    "hobli": 2,
+    "name": "Toravalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 281,
+  "fields": {
+    "hobli": 2,
+    "name": "Haleheggudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 282,
+  "fields": {
+    "hobli": 2,
+    "name": "Jayanagar"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 283,
+  "fields": {
+    "hobli": 2,
+    "name": "Bavinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 284,
+  "fields": {
+    "hobli": 14,
+    "name": "Kallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 285,
+  "fields": {
+    "hobli": 2,
+    "name": "Kethupura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 286,
+  "fields": {
+    "hobli": 2,
+    "name": "Alagumule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 287,
+  "fields": {
+    "hobli": 2,
+    "name": "Bandalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 288,
+  "fields": {
+    "hobli": 2,
+    "name": "Chinchalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 289,
+  "fields": {
+    "hobli": 2,
+    "name": "Halagapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 290,
+  "fields": {
+    "hobli": 2,
+    "name": "Ranapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 291,
+  "fields": {
+    "hobli": 2,
+    "name": "Aladamada"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 292,
+  "fields": {
+    "hobli": 2,
+    "name": "Channalinganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 293,
+  "fields": {
+    "hobli": 2,
+    "name": "Aankanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 294,
+  "fields": {
+    "hobli": 2,
+    "name": "Chikkahindavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 295,
+  "fields": {
+    "hobli": 2,
+    "name": "Doddahindavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 296,
+  "fields": {
+    "hobli": 2,
+    "name": "Kariyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 297,
+  "fields": {
+    "hobli": 2,
+    "name": "Kempanapalya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 298,
+  "fields": {
+    "hobli": 2,
+    "name": "Malurkatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 299,
+  "fields": {
+    "hobli": 2,
+    "name": "Manipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 300,
+  "fields": {
+    "hobli": 2,
+    "name": "Thellanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 301,
+  "fields": {
+    "hobli": 66,
+    "name": "Bannithalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 302,
+  "fields": {
+    "hobli": 11,
+    "name": "Bargi  colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 303,
+  "fields": {
+    "hobli": 11,
+    "name": "Deshipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 304,
+  "fields": {
+    "hobli": 11,
+    "name": "H s  hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 305,
+  "fields": {
+    "hobli": 11,
+    "name": "Hulasagundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 306,
+  "fields": {
+    "hobli": 5,
+    "name": "Kallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 307,
+  "fields": {
+    "hobli": 8,
+    "name": "Kandegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 308,
+  "fields": {
+    "hobli": 66,
+    "name": "Kodahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 309,
+  "fields": {
+    "hobli": 11,
+    "name": "Madralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 310,
+  "fields": {
+    "hobli": 11,
+    "name": "Mallainapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 311,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukhahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 312,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukhahalli colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 313,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukhalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 314,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukhalli colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 315,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukthi  colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 316,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukthi calony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 317,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukthi colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 318,
+  "fields": {
+    "hobli": 11,
+    "name": "Nagapattanna"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 319,
+  "fields": {
+    "hobli": 66,
+    "name": "Nenekatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 320,
+  "fields": {
+    "hobli": 11,
+    "name": "Panjanalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 321,
+  "fields": {
+    "hobli": 11,
+    "name": "Siddayyanapura colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 322,
+  "fields": {
+    "hobli": 11,
+    "name": "Tenkalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 323,
+  "fields": {
+    "hobli": 11,
+    "name": "Uttangerihundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 324,
+  "fields": {
+    "hobli": 66,
+    "name": "Alathuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 325,
+  "fields": {
+    "hobli": 11,
+    "name": "Kutanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 326,
+  "fields": {
+    "hobli": 11,
+    "name": "Maddayyanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 327,
+  "fields": {
+    "hobli": 11,
+    "name": "Manchalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 328,
+  "fields": {
+    "hobli": 2,
+    "name": "Masanigudi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 329,
+  "fields": {
+    "hobli": 11,
+    "name": "Savakanalli palya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 330,
+  "fields": {
+    "hobli": 11,
+    "name": "Achakarai"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 331,
+  "fields": {
+    "hobli": 11,
+    "name": "Bargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 332,
+  "fields": {
+    "hobli": 74,
+    "name": "Bokkapuram"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 333,
+  "fields": {
+    "hobli": 11,
+    "name": "Hosuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 334,
+  "fields": {
+    "hobli": 2,
+    "name": "Masanigudi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 335,
+  "fields": {
+    "hobli": 2,
+    "name": "Mavinahalla"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 336,
+  "fields": {
+    "hobli": 11,
+    "name": "Mukhahalli  colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 337,
+  "fields": {
+    "hobli": 2,
+    "name": "Kotthegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 338,
+  "fields": {
+    "hobli": 2,
+    "name": "New"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 339,
+  "fields": {
+    "hobli": 39,
+    "name": "Yaraganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 340,
+  "fields": {
+    "hobli": 4,
+    "name": "Muntipura "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 341,
+  "fields": {
+    "hobli": 36,
+    "name": "Honnegowdanahalli "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 342,
+  "fields": {
+    "hobli": 14,
+    "name": "Hangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 343,
+  "fields": {
+    "hobli": 8,
+    "name": "Telagu masahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 346,
+  "fields": {
+    "hobli": 7,
+    "name": "Vadeyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 347,
+  "fields": {
+    "hobli": 7,
+    "name": "Bhadagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 348,
+  "fields": {
+    "hobli": 8,
+    "name": "M c thalalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 349,
+  "fields": {
+    "hobli": 8,
+    "name": "Hethige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 350,
+  "fields": {
+    "hobli": 8,
+    "name": "Yasavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 351,
+  "fields": {
+    "hobli": 7,
+    "name": "Hadanoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 352,
+  "fields": {
+    "hobli": 8,
+    "name": "Chikkabhargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 353,
+  "fields": {
+    "hobli": 8,
+    "name": "Hosakote"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 354,
+  "fields": {
+    "hobli": 8,
+    "name": "Haralali"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 355,
+  "fields": {
+    "hobli": 8,
+    "name": "Kadabeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 356,
+  "fields": {
+    "hobli": 8,
+    "name": "Hunasuru circle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 357,
+  "fields": {
+    "hobli": 7,
+    "name": "Hediyala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 358,
+  "fields": {
+    "hobli": 17,
+    "name": "Kothalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 359,
+  "fields": {
+    "hobli": 17,
+    "name": "Katnavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 360,
+  "fields": {
+    "hobli": 8,
+    "name": "Moleyuru kaval"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 361,
+  "fields": {
+    "hobli": 8,
+    "name": "Bankavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 362,
+  "fields": {
+    "hobli": 14,
+    "name": "Lakkipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 363,
+  "fields": {
+    "hobli": 14,
+    "name": "Berambadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 364,
+  "fields": {
+    "hobli": 14,
+    "name": "Bachanahalli ( maddur)"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 365,
+  "fields": {
+    "hobli": 23,
+    "name": "Kothegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 366,
+  "fields": {
+    "hobli": 23,
+    "name": "Kothegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 367,
+  "fields": {
+    "hobli": 23,
+    "name": "Jayanagar"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 368,
+  "fields": {
+    "hobli": 17,
+    "name": "Linganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 369,
+  "fields": {
+    "hobli": 17,
+    "name": "Nijalinganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 370,
+  "fields": {
+    "hobli": 17,
+    "name": "Vaddaralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 371,
+  "fields": {
+    "hobli": 17,
+    "name": "Narasamangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 373,
+  "fields": {
+    "hobli": 2,
+    "name": "Test vill"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 374,
+  "fields": {
+    "hobli": 39,
+    "name": "Honnahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 375,
+  "fields": {
+    "hobli": 43,
+    "name": "Honnahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 376,
+  "fields": {
+    "hobli": 75,
+    "name": "Lanke"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 377,
+  "fields": {
+    "hobli": 7,
+    "name": "Hosaveedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 378,
+  "fields": {
+    "hobli": 14,
+    "name": "Berambadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 379,
+  "fields": {
+    "hobli": 39,
+    "name": "Linganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 380,
+  "fields": {
+    "hobli": 69,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 381,
+  "fields": {
+    "hobli": 8,
+    "name": "Teranimunti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 382,
+  "fields": {
+    "hobli": 8,
+    "name": "Chennipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 383,
+  "fields": {
+    "hobli": 8,
+    "name": "Sagare"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 384,
+  "fields": {
+    "hobli": 8,
+    "name": "Agatturu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 385,
+  "fields": {
+    "hobli": 8,
+    "name": "Dodabhargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 386,
+  "fields": {
+    "hobli": 23,
+    "name": "Siddapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 387,
+  "fields": {
+    "hobli": 8,
+    "name": "Muguthanamule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 388,
+  "fields": {
+    "hobli": 72,
+    "name": "Karepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 389,
+  "fields": {
+    "hobli": 43,
+    "name": "Yaraganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 390,
+  "fields": {
+    "hobli": 8,
+    "name": "Halanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 391,
+  "fields": {
+    "hobli": 7,
+    "name": "Chanigowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 392,
+  "fields": {
+    "hobli": 7,
+    "name": "Kelupura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 393,
+  "fields": {
+    "hobli": 7,
+    "name": "Hosapura.b"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 394,
+  "fields": {
+    "hobli": 8,
+    "name": "Kadagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 395,
+  "fields": {
+    "hobli": 8,
+    "name": "Matadakatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 396,
+  "fields": {
+    "hobli": 2,
+    "name": "Hosapura b"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 397,
+  "fields": {
+    "hobli": 7,
+    "name": "Seramahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 398,
+  "fields": {
+    "hobli": 7,
+    "name": "Hunasanahalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 399,
+  "fields": {
+    "hobli": 2,
+    "name": "Sindhuvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 400,
+  "fields": {
+    "hobli": 2,
+    "name": "Bhaguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 401,
+  "fields": {
+    "hobli": 45,
+    "name": "Bhojagayanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 402,
+  "fields": {
+    "hobli": 4,
+    "name": "Somahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 403,
+  "fields": {
+    "hobli": 5,
+    "name": "Somahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 404,
+  "fields": {
+    "hobli": 2,
+    "name": "Iggaluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 405,
+  "fields": {
+    "hobli": 22,
+    "name": "Iggluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 406,
+  "fields": {
+    "hobli": 69,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 407,
+  "fields": {
+    "hobli": 18,
+    "name": "Basavatige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 408,
+  "fields": {
+    "hobli": 4,
+    "name": "Mukahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 409,
+  "fields": {
+    "hobli": 4,
+    "name": "Mukthi colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 410,
+  "fields": {
+    "hobli": 4,
+    "name": "Mukthi coloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 411,
+  "fields": {
+    "hobli": 10,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 412,
+  "fields": {
+    "hobli": 42,
+    "name": "Basavatige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 413,
+  "fields": {
+    "hobli": 2,
+    "name": "Kumbarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 414,
+  "fields": {
+    "hobli": 2,
+    "name": "Kurati"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 415,
+  "fields": {
+    "hobli": 2,
+    "name": "Hemaragala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 416,
+  "fields": {
+    "hobli": 18,
+    "name": "P marahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 417,
+  "fields": {
+    "hobli": 18,
+    "name": "Kowalande"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 418,
+  "fields": {
+    "hobli": 18,
+    "name": "Chunchanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 419,
+  "fields": {
+    "hobli": 7,
+    "name": "Makanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 420,
+  "fields": {
+    "hobli": 2,
+    "name": "Depegowdanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 421,
+  "fields": {
+    "hobli": 5,
+    "name": "Halahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 422,
+  "fields": {
+    "hobli": 5,
+    "name": "Segavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 423,
+  "fields": {
+    "hobli": 10,
+    "name": "Kabballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 424,
+  "fields": {
+    "hobli": 10,
+    "name": "Bokkepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 425,
+  "fields": {
+    "hobli": 1,
+    "name": "Bokkepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 426,
+  "fields": {
+    "hobli": 10,
+    "name": "Ugedanahudi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 427,
+  "fields": {
+    "hobli": 10,
+    "name": "Sanegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 428,
+  "fields": {
+    "hobli": 72,
+    "name": "Karepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 429,
+  "fields": {
+    "hobli": 18,
+    "name": "Hadya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 430,
+  "fields": {
+    "hobli": 18,
+    "name": "Badanagupe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 431,
+  "fields": {
+    "hobli": 72,
+    "name": "Karya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 432,
+  "fields": {
+    "hobli": 18,
+    "name": "Koonoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 433,
+  "fields": {
+    "hobli": 18,
+    "name": "Dasanoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 434,
+  "fields": {
+    "hobli": 69,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 435,
+  "fields": {
+    "hobli": 75,
+    "name": "Hebbalaguppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 436,
+  "fields": {
+    "hobli": 8,
+    "name": "Haleheggudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 437,
+  "fields": {
+    "hobli": 8,
+    "name": "Nemmanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 438,
+  "fields": {
+    "hobli": 8,
+    "name": "Herehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 439,
+  "fields": {
+    "hobli": 8,
+    "name": "Kanakanahadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 440,
+  "fields": {
+    "hobli": 8,
+    "name": "Nemmanahalli "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 441,
+  "fields": {
+    "hobli": 8,
+    "name": "Kanakanahadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 442,
+  "fields": {
+    "hobli": 8,
+    "name": "Haleheggudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 443,
+  "fields": {
+    "hobli": 11,
+    "name": "Veeranapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 444,
+  "fields": {
+    "hobli": 11,
+    "name": "Kannegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 445,
+  "fields": {
+    "hobli": 14,
+    "name": "Haggadalla"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 446,
+  "fields": {
+    "hobli": 14,
+    "name": "Gopalpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 447,
+  "fields": {
+    "hobli": 14,
+    "name": "Killipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 448,
+  "fields": {
+    "hobli": 14,
+    "name": "Kaloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 449,
+  "fields": {
+    "hobli": 14,
+    "name": "Kunagalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 450,
+  "fields": {
+    "hobli": 14,
+    "name": "Kaggaladahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 451,
+  "fields": {
+    "hobli": 10,
+    "name": "Thamadalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 452,
+  "fields": {
+    "hobli": 16,
+    "name": "Kk hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 453,
+  "fields": {
+    "hobli": 16,
+    "name": "Heggottara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 454,
+  "fields": {
+    "hobli": 10,
+    "name": "Kootegowdanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 455,
+  "fields": {
+    "hobli": 10,
+    "name": "Jogikaloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 456,
+  "fields": {
+    "hobli": 16,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 457,
+  "fields": {
+    "hobli": 4,
+    "name": "Nenekatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 458,
+  "fields": {
+    "hobli": 42,
+    "name": "Bedarapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 459,
+  "fields": {
+    "hobli": 16,
+    "name": "Kengaki"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 460,
+  "fields": {
+    "hobli": 16,
+    "name": "Bettadapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 461,
+  "fields": {
+    "hobli": 16,
+    "name": "Aralikate"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 462,
+  "fields": {
+    "hobli": 4,
+    "name": "Baragi colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 463,
+  "fields": {
+    "hobli": 5,
+    "name": "Thorahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 464,
+  "fields": {
+    "hobli": 69,
+    "name": "Niluvagilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 465,
+  "fields": {
+    "hobli": 14,
+    "name": "Beechanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 466,
+  "fields": {
+    "hobli": 4,
+    "name": "Baragi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 467,
+  "fields": {
+    "hobli": 66,
+    "name": "Hongahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 468,
+  "fields": {
+    "hobli": 4,
+    "name": "Nagapattana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 469,
+  "fields": {
+    "hobli": 45,
+    "name": "Bedarapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 470,
+  "fields": {
+    "hobli": 38,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 471,
+  "fields": {
+    "hobli": 59,
+    "name": "Tumbusoge"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 472,
+  "fields": {
+    "hobli": 59,
+    "name": "Shanthipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 473,
+  "fields": {
+    "hobli": 23,
+    "name": "Sargur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 474,
+  "fields": {
+    "hobli": 23,
+    "name": "Bidagalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 475,
+  "fields": {
+    "hobli": 8,
+    "name": "Katwalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 476,
+  "fields": {
+    "hobli": 61,
+    "name": "Dhadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 477,
+  "fields": {
+    "hobli": 61,
+    "name": "Dhodahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 478,
+  "fields": {
+    "hobli": 4,
+    "name": "T k hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 479,
+  "fields": {
+    "hobli": 4,
+    "name": "Mukahalli colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 480,
+  "fields": {
+    "hobli": 60,
+    "name": "Dhadadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 481,
+  "fields": {
+    "hobli": 10,
+    "name": "Syanandralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 482,
+  "fields": {
+    "hobli": 10,
+    "name": "Channanjayyanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 483,
+  "fields": {
+    "hobli": 10,
+    "name": "Kelasipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 484,
+  "fields": {
+    "hobli": 10,
+    "name": "Kilagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 485,
+  "fields": {
+    "hobli": 10,
+    "name": "Ingalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 486,
+  "fields": {
+    "hobli": 14,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 487,
+  "fields": {
+    "hobli": 66,
+    "name": "Hongahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 488,
+  "fields": {
+    "hobli": 16,
+    "name": "Maleyuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 489,
+  "fields": {
+    "hobli": 18,
+    "name": "Bhujanganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 490,
+  "fields": {
+    "hobli": 66,
+    "name": "Desipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 491,
+  "fields": {
+    "hobli": 18,
+    "name": "Konanuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 492,
+  "fields": {
+    "hobli": 16,
+    "name": "Halepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 493,
+  "fields": {
+    "hobli": 16,
+    "name": "Harave"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 494,
+  "fields": {
+    "hobli": 18,
+    "name": "Heggottara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 495,
+  "fields": {
+    "hobli": 16,
+    "name": "Mukadalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 496,
+  "fields": {
+    "hobli": 18,
+    "name": "Gatvadipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 497,
+  "fields": {
+    "hobli": 18,
+    "name": "Hiribeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 498,
+  "fields": {
+    "hobli": 10,
+    "name": "Sampigepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 499,
+  "fields": {
+    "hobli": 4,
+    "name": "Allatooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 500,
+  "fields": {
+    "hobli": 18,
+    "name": "Gatvadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 501,
+  "fields": {
+    "hobli": 18,
+    "name": "Kilalipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 502,
+  "fields": {
+    "hobli": 18,
+    "name": "Bendaravadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 503,
+  "fields": {
+    "hobli": 4,
+    "name": "Hulasagundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 504,
+  "fields": {
+    "hobli": 4,
+    "name": "Mallayyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 505,
+  "fields": {
+    "hobli": 4,
+    "name": "Honnashettarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 506,
+  "fields": {
+    "hobli": 4,
+    "name": "Uttengarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 507,
+  "fields": {
+    "hobli": 4,
+    "name": "Thenkalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 508,
+  "fields": {
+    "hobli": 31,
+    "name": "Agathagowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 509,
+  "fields": {
+    "hobli": 16,
+    "name": "Hosalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 510,
+  "fields": {
+    "hobli": 16,
+    "name": "Moodnakudu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 511,
+  "fields": {
+    "hobli": 5,
+    "name": "Ragavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 512,
+  "fields": {
+    "hobli": 4,
+    "name": "Pallya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 513,
+  "fields": {
+    "hobli": 5,
+    "name": "Savakanahallipallya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 514,
+  "fields": {
+    "hobli": 5,
+    "name": "Manchahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 515,
+  "fields": {
+    "hobli": 5,
+    "name": "Shattahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 516,
+  "fields": {
+    "hobli": 66,
+    "name": "Madahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 517,
+  "fields": {
+    "hobli": 4,
+    "name": "Kuthanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 518,
+  "fields": {
+    "hobli": 39,
+    "name": "Narasamangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 519,
+  "fields": {
+    "hobli": 5,
+    "name": "Madapattana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 520,
+  "fields": {
+    "hobli": 39,
+    "name": "Kattanavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 521,
+  "fields": {
+    "hobli": 17,
+    "name": "Kotalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 522,
+  "fields": {
+    "hobli": 10,
+    "name": "Bommalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 523,
+  "fields": {
+    "hobli": 10,
+    "name": "Terakanabi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 524,
+  "fields": {
+    "hobli": 39,
+    "name": "Yangahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 525,
+  "fields": {
+    "hobli": 10,
+    "name": "Kallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 526,
+  "fields": {
+    "hobli": 10,
+    "name": "Devalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 527,
+  "fields": {
+    "hobli": 10,
+    "name": "Kalpura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 528,
+  "fields": {
+    "hobli": 10,
+    "name": "Kethahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 529,
+  "fields": {
+    "hobli": 7,
+    "name": "Maduvinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 530,
+  "fields": {
+    "hobli": 11,
+    "name": "Madahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 531,
+  "fields": {
+    "hobli": 11,
+    "name": "Mallavalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 532,
+  "fields": {
+    "hobli": 10,
+    "name": "Vadayanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 533,
+  "fields": {
+    "hobli": 39,
+    "name": "Vadagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 534,
+  "fields": {
+    "hobli": 5,
+    "name": "Kamarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 535,
+  "fields": {
+    "hobli": 8,
+    "name": "Udkuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 536,
+  "fields": {
+    "hobli": 8,
+    "name": "Huskuru colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 537,
+  "fields": {
+    "hobli": 62,
+    "name": "Vatalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 538,
+  "fields": {
+    "hobli": 63,
+    "name": "Yaragamballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 539,
+  "fields": {
+    "hobli": 7,
+    "name": "Anjanaputa"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 540,
+  "fields": {
+    "hobli": 7,
+    "name": "Hulahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 541,
+  "fields": {
+    "hobli": 63,
+    "name": "Yakanoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 542,
+  "fields": {
+    "hobli": 14,
+    "name": "Elchatti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 543,
+  "fields": {
+    "hobli": 14,
+    "name": "Mangla "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 544,
+  "fields": {
+    "hobli": 14,
+    "name": "Jakkalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 545,
+  "fields": {
+    "hobli": 14,
+    "name": "Kannegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 546,
+  "fields": {
+    "hobli": 14,
+    "name": "Adinakanive "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 547,
+  "fields": {
+    "hobli": 14,
+    "name": "Maguvina halli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 548,
+  "fields": {
+    "hobli": 14,
+    "name": "Kaligowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 549,
+  "fields": {
+    "hobli": 11,
+    "name": "Kallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 550,
+  "fields": {
+    "hobli": 39,
+    "name": "Madalava do i"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 551,
+  "fields": {
+    "hobli": 39,
+    "name": "Madalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 552,
+  "fields": {
+    "hobli": 39,
+    "name": "Basavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 553,
+  "fields": {
+    "hobli": 39,
+    "name": "Laxmipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 554,
+  "fields": {
+    "hobli": 39,
+    "name": "Vadagalapuradahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 555,
+  "fields": {
+    "hobli": 39,
+    "name": "Akashettepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 556,
+  "fields": {
+    "hobli": 39,
+    "name": "Amachavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 557,
+  "fields": {
+    "hobli": 39,
+    "name": "Bisalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 558,
+  "fields": {
+    "hobli": 14,
+    "name": "Kunagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 559,
+  "fields": {
+    "hobli": 10,
+    "name": "Shindanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 560,
+  "fields": {
+    "hobli": 10,
+    "name": "Kattanavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 561,
+  "fields": {
+    "hobli": 39,
+    "name": "Kotyalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 562,
+  "fields": {
+    "hobli": 39,
+    "name": "Kottalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 563,
+  "fields": {
+    "hobli": 7,
+    "name": "Mahadevanagara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 564,
+  "fields": {
+    "hobli": 35,
+    "name": "Anjanapora "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 565,
+  "fields": {
+    "hobli": 7,
+    "name": "Naganapora "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 566,
+  "fields": {
+    "hobli": 7,
+    "name": "Anjanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 567,
+  "fields": {
+    "hobli": 7,
+    "name": "Hanchipura "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 568,
+  "fields": {
+    "hobli": 7,
+    "name": "Inderanagara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 569,
+  "fields": {
+    "hobli": 16,
+    "name": "Udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 570,
+  "fields": {
+    "hobli": 39,
+    "name": "Atagulipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 571,
+  "fields": {
+    "hobli": 39,
+    "name": "Attagulipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 572,
+  "fields": {
+    "hobli": 7,
+    "name": "Hosaveedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 573,
+  "fields": {
+    "hobli": 7,
+    "name": "Devarajashattipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 574,
+  "fields": {
+    "hobli": 8,
+    "name": "Hosakeresunda"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 575,
+  "fields": {
+    "hobli": 8,
+    "name": "Mosarahalla"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 576,
+  "fields": {
+    "hobli": 69,
+    "name": "Nerale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 577,
+  "fields": {
+    "hobli": 4,
+    "name": "Bimanabidu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 578,
+  "fields": {
+    "hobli": 58,
+    "name": "Jiyaracoloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 579,
+  "fields": {
+    "hobli": 58,
+    "name": "Basvanageree"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 580,
+  "fields": {
+    "hobli": 58,
+    "name": "  k yadathore"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 581,
+  "fields": {
+    "hobli": 58,
+    "name": "Alathalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 582,
+  "fields": {
+    "hobli": 58,
+    "name": "Agasarahindi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 583,
+  "fields": {
+    "hobli": 23,
+    "name": "Shanthipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 584,
+  "fields": {
+    "hobli": 5,
+    "name": "Garaganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 585,
+  "fields": {
+    "hobli": 17,
+    "name": "V c hosuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 586,
+  "fields": {
+    "hobli": 17,
+    "name": "Doddahalla"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 587,
+  "fields": {
+    "hobli": 39,
+    "name": "Doddahalla"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 588,
+  "fields": {
+    "hobli": 14,
+    "name": "Basavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 589,
+  "fields": {
+    "hobli": 17,
+    "name": "Basavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 590,
+  "fields": {
+    "hobli": 17,
+    "name": "Attugulipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 591,
+  "fields": {
+    "hobli": 43,
+    "name": "Attagulipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 592,
+  "fields": {
+    "hobli": 39,
+    "name": "Haradanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 593,
+  "fields": {
+    "hobli": 69,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 594,
+  "fields": {
+    "hobli": 57,
+    "name": "Banoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 595,
+  "fields": {
+    "hobli": 72,
+    "name": "Karya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 596,
+  "fields": {
+    "hobli": 7,
+    "name": "Kamahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 597,
+  "fields": {
+    "hobli": 57,
+    "name": "Hadya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 598,
+  "fields": {
+    "hobli": 14,
+    "name": "Hanagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 599,
+  "fields": {
+    "hobli": 14,
+    "name": "Hangalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 600,
+  "fields": {
+    "hobli": 14,
+    "name": "Lokkere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 601,
+  "fields": {
+    "hobli": 18,
+    "name": "Devanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 602,
+  "fields": {
+    "hobli": 4,
+    "name": "Gundulpet"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 603,
+  "fields": {
+    "hobli": 16,
+    "name": "Megalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 604,
+  "fields": {
+    "hobli": 10,
+    "name": "Udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 605,
+  "fields": {
+    "hobli": 17,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 606,
+  "fields": {
+    "hobli": 10,
+    "name": "Baratalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 607,
+  "fields": {
+    "hobli": 40,
+    "name": "Maadralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 608,
+  "fields": {
+    "hobli": 10,
+    "name": "Narasamangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 609,
+  "fields": {
+    "hobli": 55,
+    "name": "Kannegowdanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 610,
+  "fields": {
+    "hobli": 55,
+    "name": "Chamalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 611,
+  "fields": {
+    "hobli": 69,
+    "name": "Nerale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 612,
+  "fields": {
+    "hobli": 55,
+    "name": "S kallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 613,
+  "fields": {
+    "hobli": 55,
+    "name": "Skallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 614,
+  "fields": {
+    "hobli": 76,
+    "name": "Harohalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 615,
+  "fields": {
+    "hobli": 55,
+    "name": "Chunchirayanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 616,
+  "fields": {
+    "hobli": 76,
+    "name": "Gopalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 617,
+  "fields": {
+    "hobli": 75,
+    "name": "Lanke"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 618,
+  "fields": {
+    "hobli": 11,
+    "name": "Puttanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 619,
+  "fields": {
+    "hobli": 8,
+    "name": "B. matakere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 620,
+  "fields": {
+    "hobli": 55,
+    "name": "Hampapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 621,
+  "fields": {
+    "hobli": 8,
+    "name": "Kandegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 622,
+  "fields": {
+    "hobli": 23,
+    "name": "Agatturu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 623,
+  "fields": {
+    "hobli": 58,
+    "name": "Myraganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 624,
+  "fields": {
+    "hobli": 58,
+    "name": "Muraganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 625,
+  "fields": {
+    "hobli": 58,
+    "name": "Penjahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 626,
+  "fields": {
+    "hobli": 58,
+    "name": "Belaganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 627,
+  "fields": {
+    "hobli": 58,
+    "name": "Anatharasnthe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 628,
+  "fields": {
+    "hobli": 22,
+    "name": " b g c olony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 629,
+  "fields": {
+    "hobli": 22,
+    "name": "Chikkalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 630,
+  "fields": {
+    "hobli": 39,
+    "name": "B g halli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 631,
+  "fields": {
+    "hobli": 39,
+    "name": "B g colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 632,
+  "fields": {
+    "hobli": 22,
+    "name": "M r pura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 633,
+  "fields": {
+    "hobli": 22,
+    "name": "Housr"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 634,
+  "fields": {
+    "hobli": 30,
+    "name": "Udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 635,
+  "fields": {
+    "hobli": 58,
+    "name": "Herehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 636,
+  "fields": {
+    "hobli": 58,
+    "name": "Ankanathaputa"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 637,
+  "fields": {
+    "hobli": 55,
+    "name": "Soligaracolony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 638,
+  "fields": {
+    "hobli": 11,
+    "name": "Bettadapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 639,
+  "fields": {
+    "hobli": 7,
+    "name": "Kellupura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 640,
+  "fields": {
+    "hobli": 16,
+    "name": "Kalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 641,
+  "fields": {
+    "hobli": 39,
+    "name": "Kullur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 642,
+  "fields": {
+    "hobli": 39,
+    "name": "Yanaguba"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 643,
+  "fields": {
+    "hobli": 64,
+    "name": "Bokapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 644,
+  "fields": {
+    "hobli": 66,
+    "name": "Desipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 645,
+  "fields": {
+    "hobli": 10,
+    "name": "Sindanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 646,
+  "fields": {
+    "hobli": 10,
+    "name": "Hulllapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 647,
+  "fields": {
+    "hobli": 64,
+    "name": "Masanigudi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 648,
+  "fields": {
+    "hobli": 57,
+    "name": "Dasanoru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 649,
+  "fields": {
+    "hobli": 14,
+    "name": "Madduru "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 650,
+  "fields": {
+    "hobli": 5,
+    "name": "Ragavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 651,
+  "fields": {
+    "hobli": 8,
+    "name": "Nadadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 652,
+  "fields": {
+    "hobli": 14,
+    "name": "Karamala "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 655,
+  "fields": {
+    "hobli": 29,
+    "name": "Bichanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 656,
+  "fields": {
+    "hobli": 40,
+    "name": "Channamallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 657,
+  "fields": {
+    "hobli": 18,
+    "name": "Kerehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 658,
+  "fields": {
+    "hobli": 10,
+    "name": "Mulayanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 659,
+  "fields": {
+    "hobli": 31,
+    "name": "Kudagapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 660,
+  "fields": {
+    "hobli": 16,
+    "name": "Desigowdanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 661,
+  "fields": {
+    "hobli": 35,
+    "name": "Maduvinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 662,
+  "fields": {
+    "hobli": 17,
+    "name": "Honnahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 663,
+  "fields": {
+    "hobli": 5,
+    "name": "Nitre"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 664,
+  "fields": {
+    "hobli": 14,
+    "name": "Bommalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 665,
+  "fields": {
+    "hobli": 23,
+    "name": "Bidarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 666,
+  "fields": {
+    "hobli": 8,
+    "name": "Nadadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 667,
+  "fields": {
+    "hobli": 18,
+    "name": "Haraganapur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 668,
+  "fields": {
+    "hobli": 19,
+    "name": "Erode"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 669,
+  "fields": {
+    "hobli": 18,
+    "name": "Haraginapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 670,
+  "fields": {
+    "hobli": 14,
+    "name": "Jakkahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 671,
+  "fields": {
+    "hobli": 58,
+    "name": "Malali"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 672,
+  "fields": {
+    "hobli": 17,
+    "name": "Bommalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 673,
+  "fields": {
+    "hobli": 66,
+    "name": "Bargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 674,
+  "fields": {
+    "hobli": 69,
+    "name": "Hirehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 675,
+  "fields": {
+    "hobli": 68,
+    "name": "Talavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 676,
+  "fields": {
+    "hobli": 23,
+    "name": "Hanchipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 677,
+  "fields": {
+    "hobli": 16,
+    "name": "Chikkakempehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 678,
+  "fields": {
+    "hobli": 14,
+    "name": "Hangala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 679,
+  "fields": {
+    "hobli": 14,
+    "name": "Ankahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 680,
+  "fields": {
+    "hobli": 14,
+    "name": "Bhachahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 681,
+  "fields": {
+    "hobli": 14,
+    "name": "Vaddanahosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 682,
+  "fields": {
+    "hobli": 14,
+    "name": "Karle"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 683,
+  "fields": {
+    "hobli": 14,
+    "name": "Lokkere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 684,
+  "fields": {
+    "hobli": 14,
+    "name": "Yalachatti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 685,
+  "fields": {
+    "hobli": 14,
+    "name": "Kaniyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 686,
+  "fields": {
+    "hobli": 14,
+    "name": "Bandipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 687,
+  "fields": {
+    "hobli": 14,
+    "name": "Siddayyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 688,
+  "fields": {
+    "hobli": 14,
+    "name": "Hangadahosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 689,
+  "fields": {
+    "hobli": 14,
+    "name": "Maidanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 690,
+  "fields": {
+    "hobli": 14,
+    "name": "Shettahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 691,
+  "fields": {
+    "hobli": 14,
+    "name": "Devarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 692,
+  "fields": {
+    "hobli": 14,
+    "name": "Bachanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 693,
+  "fields": {
+    "hobli": 14,
+    "name": "Belavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 694,
+  "fields": {
+    "hobli": 14,
+    "name": "Putthanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 695,
+  "fields": {
+    "hobli": 14,
+    "name": "Hangalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 696,
+  "fields": {
+    "hobli": 14,
+    "name": "Hullepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 697,
+  "fields": {
+    "hobli": 14,
+    "name": "Hundipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 698,
+  "fields": {
+    "hobli": 14,
+    "name": "Madduru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 699,
+  "fields": {
+    "hobli": 14,
+    "name": "Kebbekura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 700,
+  "fields": {
+    "hobli": 10,
+    "name": "Hutthuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 701,
+  "fields": {
+    "hobli": 10,
+    "name": "Maarihosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 702,
+  "fields": {
+    "hobli": 10,
+    "name": "Kasavanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 703,
+  "fields": {
+    "hobli": 10,
+    "name": "Bellakuppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 704,
+  "fields": {
+    "hobli": 10,
+    "name": "Daaribeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 705,
+  "fields": {
+    "hobli": 10,
+    "name": "Hullana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 706,
+  "fields": {
+    "hobli": 10,
+    "name": "Baratahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 707,
+  "fields": {
+    "hobli": 10,
+    "name": "Thodipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 708,
+  "fields": {
+    "hobli": 10,
+    "name": "Bommanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 709,
+  "fields": {
+    "hobli": 10,
+    "name": "Kengavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 710,
+  "fields": {
+    "hobli": 10,
+    "name": "Kadabooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 711,
+  "fields": {
+    "hobli": 10,
+    "name": "Mayanayakanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 712,
+  "fields": {
+    "hobli": 10,
+    "name": "Ramayyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 713,
+  "fields": {
+    "hobli": 10,
+    "name": "Kaggala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 714,
+  "fields": {
+    "hobli": 10,
+    "name": "Haalavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 715,
+  "fields": {
+    "hobli": 10,
+    "name": "Hooradahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 716,
+  "fields": {
+    "hobli": 10,
+    "name": "Heggavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 717,
+  "fields": {
+    "hobli": 10,
+    "name": "Kelasuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 718,
+  "fields": {
+    "hobli": 10,
+    "name": "Moodaguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 719,
+  "fields": {
+    "hobli": 10,
+    "name": "Shynadrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 720,
+  "fields": {
+    "hobli": 5,
+    "name": "Parvathanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 721,
+  "fields": {
+    "hobli": 5,
+    "name": "Ballahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 722,
+  "fields": {
+    "hobli": 5,
+    "name": "Yaduvinahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 723,
+  "fields": {
+    "hobli": 5,
+    "name": "Thondavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 724,
+  "fields": {
+    "hobli": 5,
+    "name": "Chikkati"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 725,
+  "fields": {
+    "hobli": 5,
+    "name": "Hirikati"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 726,
+  "fields": {
+    "hobli": 5,
+    "name": "Kammarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 727,
+  "fields": {
+    "hobli": 5,
+    "name": "Chikkanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 728,
+  "fields": {
+    "hobli": 5,
+    "name": "Hosapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 729,
+  "fields": {
+    "hobli": 5,
+    "name": "Savakanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 730,
+  "fields": {
+    "hobli": 5,
+    "name": "Arepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 731,
+  "fields": {
+    "hobli": 5,
+    "name": "Hunasinapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 732,
+  "fields": {
+    "hobli": 5,
+    "name": "Sighavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 733,
+  "fields": {
+    "hobli": 5,
+    "name": "Halladamadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 734,
+  "fields": {
+    "hobli": 5,
+    "name": "Garaganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 735,
+  "fields": {
+    "hobli": 5,
+    "name": "Nitre"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 736,
+  "fields": {
+    "hobli": 5,
+    "name": "Agathagowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 737,
+  "fields": {
+    "hobli": 5,
+    "name": "Halladapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 738,
+  "fields": {
+    "hobli": 5,
+    "name": "Madapattanna"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 739,
+  "fields": {
+    "hobli": 5,
+    "name": "Bogganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 740,
+  "fields": {
+    "hobli": 5,
+    "name": "Akkalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 741,
+  "fields": {
+    "hobli": 5,
+    "name": "Sampigepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 742,
+  "fields": {
+    "hobli": 5,
+    "name": "Kabbahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 743,
+  "fields": {
+    "hobli": 5,
+    "name": "Taggaluru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 744,
+  "fields": {
+    "hobli": 5,
+    "name": "Hasaguli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 745,
+  "fields": {
+    "hobli": 5,
+    "name": "Manchahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 746,
+  "fields": {
+    "hobli": 5,
+    "name": "Raghavapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 747,
+  "fields": {
+    "hobli": 5,
+    "name": "Horiyala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 748,
+  "fields": {
+    "hobli": 66,
+    "name": "Gundlupet"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 749,
+  "fields": {
+    "hobli": 66,
+    "name": "Chikkathuppuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 750,
+  "fields": {
+    "hobli": 66,
+    "name": "Dundasanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 751,
+  "fields": {
+    "hobli": 66,
+    "name": "Bettahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 752,
+  "fields": {
+    "hobli": 66,
+    "name": "Vastilinganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 753,
+  "fields": {
+    "hobli": 69,
+    "name": "Annur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 754,
+  "fields": {
+    "hobli": 66,
+    "name": "Panchanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 755,
+  "fields": {
+    "hobli": 66,
+    "name": "Madrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 756,
+  "fields": {
+    "hobli": 66,
+    "name": "Doddathuppuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 757,
+  "fields": {
+    "hobli": 66,
+    "name": "Thalale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 758,
+  "fields": {
+    "hobli": 66,
+    "name": "Veeranapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 759,
+  "fields": {
+    "hobli": 66,
+    "name": "Vadrahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 760,
+  "fields": {
+    "hobli": 66,
+    "name": "Hosooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 761,
+  "fields": {
+    "hobli": 66,
+    "name": "Bendagahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 762,
+  "fields": {
+    "hobli": 66,
+    "name": "Kelasurupura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 763,
+  "fields": {
+    "hobli": 66,
+    "name": "Banagavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 764,
+  "fields": {
+    "hobli": 66,
+    "name": "Malavalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 765,
+  "fields": {
+    "hobli": 66,
+    "name": "Kandegaladahosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 766,
+  "fields": {
+    "hobli": 66,
+    "name": "Manuganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 767,
+  "fields": {
+    "hobli": 66,
+    "name": "Kuthnooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 768,
+  "fields": {
+    "hobli": 66,
+    "name": "Mookhahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 769,
+  "fields": {
+    "hobli": 66,
+    "name": "Honakanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 770,
+  "fields": {
+    "hobli": 66,
+    "name": "Beemanabeedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 771,
+  "fields": {
+    "hobli": 66,
+    "name": "Masahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 772,
+  "fields": {
+    "hobli": 66,
+    "name": "Devarapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 773,
+  "fields": {
+    "hobli": 66,
+    "name": "Bargi kaloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 774,
+  "fields": {
+    "hobli": 66,
+    "name": "Mukhahalli kaloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 775,
+  "fields": {
+    "hobli": 70,
+    "name": "Hirebegur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 776,
+  "fields": {
+    "hobli": 70,
+    "name": "Mukkadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 777,
+  "fields": {
+    "hobli": 70,
+    "name": "Maliyooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 778,
+  "fields": {
+    "hobli": 70,
+    "name": "Kulagana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 779,
+  "fields": {
+    "hobli": 70,
+    "name": "Moodnakudu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 780,
+  "fields": {
+    "hobli": 70,
+    "name": "Padnakuduhosahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 781,
+  "fields": {
+    "hobli": 17,
+    "name": "Haraganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 782,
+  "fields": {
+    "hobli": 17,
+    "name": "Ugedevanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 783,
+  "fields": {
+    "hobli": 17,
+    "name": "Kumbaragundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 784,
+  "fields": {
+    "hobli": 17,
+    "name": "Kothlavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 785,
+  "fields": {
+    "hobli": 17,
+    "name": "Bandgere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 786,
+  "fields": {
+    "hobli": 17,
+    "name": "Ankashettipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 787,
+  "fields": {
+    "hobli": 17,
+    "name": "Venkatayyanachatra"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 788,
+  "fields": {
+    "hobli": 17,
+    "name": "Amachavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 789,
+  "fields": {
+    "hobli": 18,
+    "name": "Bhujaganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 790,
+  "fields": {
+    "hobli": 71,
+    "name": "Devanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 791,
+  "fields": {
+    "hobli": 72,
+    "name": "Gattavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 792,
+  "fields": {
+    "hobli": 72,
+    "name": "Halepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 793,
+  "fields": {
+    "hobli": 23,
+    "name": "Devalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 794,
+  "fields": {
+    "hobli": 73,
+    "name": "Iggloru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 795,
+  "fields": {
+    "hobli": 68,
+    "name": "Maharajapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 796,
+  "fields": {
+    "hobli": 69,
+    "name": "Antharasanthe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 797,
+  "fields": {
+    "hobli": 7,
+    "name": "Balluruhundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 798,
+  "fields": {
+    "hobli": 7,
+    "name": "Naganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 799,
+  "fields": {
+    "hobli": 5,
+    "name": "Bhogayyanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 800,
+  "fields": {
+    "hobli": 72,
+    "name": "Kavlande"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 801,
+  "fields": {
+    "hobli": 7,
+    "name": "Indranagar"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 802,
+  "fields": {
+    "hobli": 7,
+    "name": "Sirmahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 803,
+  "fields": {
+    "hobli": 8,
+    "name": "Bhavikere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 804,
+  "fields": {
+    "hobli": 8,
+    "name": "Huskuru kaloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 805,
+  "fields": {
+    "hobli": 8,
+    "name": "Kadabegur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 806,
+  "fields": {
+    "hobli": 8,
+    "name": "Katvalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 807,
+  "fields": {
+    "hobli": 69,
+    "name": "Channidowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 808,
+  "fields": {
+    "hobli": 8,
+    "name": "Channagundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 809,
+  "fields": {
+    "hobli": 8,
+    "name": "Doddabargi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 810,
+  "fields": {
+    "hobli": 8,
+    "name": "Hunasooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 811,
+  "fields": {
+    "hobli": 8,
+    "name": "Kadagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 812,
+  "fields": {
+    "hobli": 8,
+    "name": "Muguthalanamule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 813,
+  "fields": {
+    "hobli": 77,
+    "name": "Beeramballi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 814,
+  "fields": {
+    "hobli": 23,
+    "name": "Beeravalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 815,
+  "fields": {
+    "hobli": 75,
+    "name": "Chakkur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 816,
+  "fields": {
+    "hobli": 75,
+    "name": "Chikkeriyur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 817,
+  "fields": {
+    "hobli": 75,
+    "name": "Doddabyranakuppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 818,
+  "fields": {
+    "hobli": 76,
+    "name": "Gujjegowdanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 819,
+  "fields": {
+    "hobli": 76,
+    "name": "Gurur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 820,
+  "fields": {
+    "hobli": 55,
+    "name": "Hampapura h d"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 821,
+  "fields": {
+    "hobli": 72,
+    "name": "Hedathale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 822,
+  "fields": {
+    "hobli": 69,
+    "name": "Hosaholalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 823,
+  "fields": {
+    "hobli": 23,
+    "name": "Itna"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 824,
+  "fields": {
+    "hobli": 55,
+    "name": "Jampanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 825,
+  "fields": {
+    "hobli": 76,
+    "name": "Jayapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 826,
+  "fields": {
+    "hobli": 23,
+    "name": "Kabini colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 827,
+  "fields": {
+    "hobli": 75,
+    "name": "Kolagala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 828,
+  "fields": {
+    "hobli": 75,
+    "name": "Kollegowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 829,
+  "fields": {
+    "hobli": 75,
+    "name": "Kunthanabelathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 830,
+  "fields": {
+    "hobli": 78,
+    "name": "Kyathanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 831,
+  "fields": {
+    "hobli": 75,
+    "name": "Matakere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 832,
+  "fields": {
+    "hobli": 79,
+    "name": "Metikuppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 833,
+  "fields": {
+    "hobli": 8,
+    "name": "Moleyur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 834,
+  "fields": {
+    "hobli": 23,
+    "name": "Mullur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 835,
+  "fields": {
+    "hobli": 69,
+    "name": "N begur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 836,
+  "fields": {
+    "hobli": 79,
+    "name": "Naganahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 837,
+  "fields": {
+    "hobli": 79,
+    "name": "Nanjipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 838,
+  "fields": {
+    "hobli": 69,
+    "name": "Nisana belathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 839,
+  "fields": {
+    "hobli": 23,
+    "name": "Sargur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 840,
+  "fields": {
+    "hobli": 71,
+    "name": "Tagadur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 841,
+  "fields": {
+    "hobli": 72,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 842,
+  "fields": {
+    "hobli": 80,
+    "name": "Vaddara palya village"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 843,
+  "fields": {
+    "hobli": 8,
+    "name": "Badagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 844,
+  "fields": {
+    "hobli": 7,
+    "name": "Kellipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 845,
+  "fields": {
+    "hobli": 35,
+    "name": "Kellipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 846,
+  "fields": {
+    "hobli": 31,
+    "name": "Halahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 847,
+  "fields": {
+    "hobli": 31,
+    "name": "Kamarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 848,
+  "fields": {
+    "hobli": 7,
+    "name": "Bankahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 849,
+  "fields": {
+    "hobli": 7,
+    "name": "Chilakahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 850,
+  "fields": {
+    "hobli": 8,
+    "name": "Hadanuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 851,
+  "fields": {
+    "hobli": 8,
+    "name": "Badaga"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 852,
+  "fields": {
+    "hobli": 23,
+    "name": "Doddabaragi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 853,
+  "fields": {
+    "hobli": 7,
+    "name": "Ariyuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 854,
+  "fields": {
+    "hobli": 66,
+    "name": "Yarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 855,
+  "fields": {
+    "hobli": 67,
+    "name": "Yarahalli "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 856,
+  "fields": {
+    "hobli": 23,
+    "name": "Kallambalu "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 857,
+  "fields": {
+    "hobli": 7,
+    "name": "Jalahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 858,
+  "fields": {
+    "hobli": 16,
+    "name": "Hirebeguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 859,
+  "fields": {
+    "hobli": 69,
+    "name": "Jiyara coloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 860,
+  "fields": {
+    "hobli": 7,
+    "name": "Ibjala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 861,
+  "fields": {
+    "hobli": 66,
+    "name": "Kalanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 862,
+  "fields": {
+    "hobli": 8,
+    "name": "Siddapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 863,
+  "fields": {
+    "hobli": 35,
+    "name": "Vadeyanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 864,
+  "fields": {
+    "hobli": 58,
+    "name": "Magudilu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 865,
+  "fields": {
+    "hobli": 16,
+    "name": "Uganedahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 866,
+  "fields": {
+    "hobli": 68,
+    "name": "Iripuram"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 867,
+  "fields": {
+    "hobli": 68,
+    "name": "Chikkalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 868,
+  "fields": {
+    "hobli": 68,
+    "name": "Iggalore"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 869,
+  "fields": {
+    "hobli": 31,
+    "name": "Toravalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 870,
+  "fields": {
+    "hobli": 26,
+    "name": "Kollegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 871,
+  "fields": {
+    "hobli": 18,
+    "name": "Malla halli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 872,
+  "fields": {
+    "hobli": 16,
+    "name": "Kulagana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 873,
+  "fields": {
+    "hobli": 23,
+    "name": "Kalegowdana hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 874,
+  "fields": {
+    "hobli": 8,
+    "name": "Alalahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 875,
+  "fields": {
+    "hobli": 23,
+    "name": "Lanke"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 876,
+  "fields": {
+    "hobli": 7,
+    "name": "Kappasoge"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 877,
+  "fields": {
+    "hobli": 69,
+    "name": "Machare"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 878,
+  "fields": {
+    "hobli": 27,
+    "name": "Kannur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 879,
+  "fields": {
+    "hobli": 81,
+    "name": "Kannur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 880,
+  "fields": {
+    "hobli": 31,
+    "name": "Manchahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 881,
+  "fields": {
+    "hobli": 31,
+    "name": "Madapattana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 882,
+  "fields": {
+    "hobli": 31,
+    "name": "Nitre"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 883,
+  "fields": {
+    "hobli": 66,
+    "name": "Sinduvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 884,
+  "fields": {
+    "hobli": 67,
+    "name": "Sindhuvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 885,
+  "fields": {
+    "hobli": 42,
+    "name": "P maralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 886,
+  "fields": {
+    "hobli": 23,
+    "name": "Manchahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 887,
+  "fields": {
+    "hobli": 7,
+    "name": "Surahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 888,
+  "fields": {
+    "hobli": 31,
+    "name": "Chikkatti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 889,
+  "fields": {
+    "hobli": 45,
+    "name": "P maralli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 890,
+  "fields": {
+    "hobli": 67,
+    "name": "K k hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 891,
+  "fields": {
+    "hobli": 66,
+    "name": "Chakahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 892,
+  "fields": {
+    "hobli": 66,
+    "name": "Chakkodanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 893,
+  "fields": {
+    "hobli": 16,
+    "name": "Kumachahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 894,
+  "fields": {
+    "hobli": 30,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 895,
+  "fields": {
+    "hobli": 16,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 896,
+  "fields": {
+    "hobli": 66,
+    "name": "K k hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 897,
+  "fields": {
+    "hobli": 30,
+    "name": "Kilalipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 898,
+  "fields": {
+    "hobli": 79,
+    "name": "Hd kote "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 899,
+  "fields": {
+    "hobli": 23,
+    "name": "Hadanuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 900,
+  "fields": {
+    "hobli": 67,
+    "name": "Sindhuvallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 901,
+  "fields": {
+    "hobli": 69,
+    "name": "Malali"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 902,
+  "fields": {
+    "hobli": 8,
+    "name": "Bidarahalli hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 903,
+  "fields": {
+    "hobli": 8,
+    "name": "Kapileshwari colony "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 904,
+  "fields": {
+    "hobli": 8,
+    "name": "Bidarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 905,
+  "fields": {
+    "hobli": 16,
+    "name": "kantnavadu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 906,
+  "fields": {
+    "hobli": 23,
+    "name": "Badagalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 907,
+  "fields": {
+    "hobli": 11,
+    "name": "bannithalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 908,
+  "fields": {
+    "hobli": 11,
+    "name": "Nagapattana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 909,
+  "fields": {
+    "hobli": 7,
+    "name": "Belele"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 910,
+  "fields": {
+    "hobli": 66,
+    "name": "Thenklundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 911,
+  "fields": {
+    "hobli": 69,
+    "name": "Gundathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 912,
+  "fields": {
+    "hobli": 69,
+    "name": "N Belatthur "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 913,
+  "fields": {
+    "hobli": 69,
+    "name": "N. Belathuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 914,
+  "fields": {
+    "hobli": 19,
+    "name": "N Belathuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 915,
+  "fields": {
+    "hobli": 7,
+    "name": "Haginavalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 916,
+  "fields": {
+    "hobli": 42,
+    "name": "Dasanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 917,
+  "fields": {
+    "hobli": 45,
+    "name": "Bagooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 918,
+  "fields": {
+    "hobli": 45,
+    "name": "koodlapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 919,
+  "fields": {
+    "hobli": 66,
+    "name": "Elachagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 920,
+  "fields": {
+    "hobli": 66,
+    "name": "krishnapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 921,
+  "fields": {
+    "hobli": 66,
+    "name": "Siddaiahna hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 922,
+  "fields": {
+    "hobli": 66,
+    "name": "Makanapura "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 923,
+  "fields": {
+    "hobli": 38,
+    "name": "Kalana hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 924,
+  "fields": {
+    "hobli": 66,
+    "name": "Yelachagere "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 925,
+  "fields": {
+    "hobli": 66,
+    "name": "Hosapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 926,
+  "fields": {
+    "hobli": 68,
+    "name": "kumbapuram"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 927,
+  "fields": {
+    "hobli": 68,
+    "name": "gumatapuram"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 928,
+  "fields": {
+    "hobli": 68,
+    "name": "dhoddahajanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 929,
+  "fields": {
+    "hobli": 68,
+    "name": "osur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 930,
+  "fields": {
+    "hobli": 11,
+    "name": "Gundlupet"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 931,
+  "fields": {
+    "hobli": 67,
+    "name": "koothanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 932,
+  "fields": {
+    "hobli": 38,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 933,
+  "fields": {
+    "hobli": 30,
+    "name": "Aralikatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 934,
+  "fields": {
+    "hobli": 42,
+    "name": "Kudlapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 935,
+  "fields": {
+    "hobli": 7,
+    "name": "Beeradevanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 936,
+  "fields": {
+    "hobli": 66,
+    "name": "Muntipura "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 937,
+  "fields": {
+    "hobli": 23,
+    "name": "Halasur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 938,
+  "fields": {
+    "hobli": 23,
+    "name": "Baragi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 939,
+  "fields": {
+    "hobli": 23,
+    "name": "m c talaly"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 940,
+  "fields": {
+    "hobli": 23,
+    "name": "m c talalu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 941,
+  "fields": {
+    "hobli": 23,
+    "name": "Alasuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 942,
+  "fields": {
+    "hobli": 31,
+    "name": "Hosapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 943,
+  "fields": {
+    "hobli": 31,
+    "name": "Somahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 944,
+  "fields": {
+    "hobli": 23,
+    "name": "Chikka baragi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 945,
+  "fields": {
+    "hobli": 23,
+    "name": "Hunasur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 946,
+  "fields": {
+    "hobli": 23,
+    "name": "Alalahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 947,
+  "fields": {
+    "hobli": 18,
+    "name": "kumrahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 948,
+  "fields": {
+    "hobli": 23,
+    "name": "yashavanthapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 949,
+  "fields": {
+    "hobli": 23,
+    "name": "Muguthanamule"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 950,
+  "fields": {
+    "hobli": 23,
+    "name": "kadagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 951,
+  "fields": {
+    "hobli": 8,
+    "name": "Nqdahaadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 952,
+  "fields": {
+    "hobli": 8,
+    "name": "Nadahaadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 953,
+  "fields": {
+    "hobli": 8,
+    "name": "Kebbepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 954,
+  "fields": {
+    "hobli": 10,
+    "name": "Kengaki"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 955,
+  "fields": {
+    "hobli": 16,
+    "name": "thammadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 956,
+  "fields": {
+    "hobli": 66,
+    "name": "Uttangerehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 957,
+  "fields": {
+    "hobli": 66,
+    "name": "Tenkalundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 958,
+  "fields": {
+    "hobli": 66,
+    "name": "Tenkalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 959,
+  "fields": {
+    "hobli": 8,
+    "name": "Kabini colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 960,
+  "fields": {
+    "hobli": 66,
+    "name": "Hebbalaguppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 961,
+  "fields": {
+    "hobli": 39,
+    "name": "nijali ganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 962,
+  "fields": {
+    "hobli": 39,
+    "name": "nijalinganapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 963,
+  "fields": {
+    "hobli": 23,
+    "name": "Chamegowdanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 964,
+  "fields": {
+    "hobli": 7,
+    "name": "Hura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 965,
+  "fields": {
+    "hobli": 38,
+    "name": "heggotara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 966,
+  "fields": {
+    "hobli": 66,
+    "name": "heggotara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 967,
+  "fields": {
+    "hobli": 38,
+    "name": "Chikkabegur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 968,
+  "fields": {
+    "hobli": 23,
+    "name": "Haleyuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 969,
+  "fields": {
+    "hobli": 23,
+    "name": "Dadadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 970,
+  "fields": {
+    "hobli": 7,
+    "name": "Malkundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 971,
+  "fields": {
+    "hobli": 23,
+    "name": "Gonthagalada Hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 972,
+  "fields": {
+    "hobli": 11,
+    "name": "Alathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 973,
+  "fields": {
+    "hobli": 7,
+    "name": "Badagalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 974,
+  "fields": {
+    "hobli": 66,
+    "name": "udigala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 975,
+  "fields": {
+    "hobli": 11,
+    "name": "Kuthanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 976,
+  "fields": {
+    "hobli": 8,
+    "name": "Hirehalli "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 977,
+  "fields": {
+    "hobli": 69,
+    "name": "Udboor colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 978,
+  "fields": {
+    "hobli": 8,
+    "name": "Sigevadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 979,
+  "fields": {
+    "hobli": 23,
+    "name": "Vaderahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 980,
+  "fields": {
+    "hobli": 8,
+    "name": "Vaderahalli hadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 981,
+  "fields": {
+    "hobli": 42,
+    "name": "Nerale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 982,
+  "fields": {
+    "hobli": 23,
+    "name": "Nadadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 983,
+  "fields": {
+    "hobli": 7,
+    "name": "Elachagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 984,
+  "fields": {
+    "hobli": 69,
+    "name": "Hunasekuppe "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 985,
+  "fields": {
+    "hobli": 66,
+    "name": "Siddaiahnapura colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 986,
+  "fields": {
+    "hobli": 35,
+    "name": "Hadya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 987,
+  "fields": {
+    "hobli": 66,
+    "name": "Jakkahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 988,
+  "fields": {
+    "hobli": 66,
+    "name": "Kollegowdanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 989,
+  "fields": {
+    "hobli": 66,
+    "name": "Agasana Hundi Colony "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 990,
+  "fields": {
+    "hobli": 66,
+    "name": "Agasana Hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 991,
+  "fields": {
+    "hobli": 66,
+    "name": "HD kote town"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 992,
+  "fields": {
+    "hobli": 66,
+    "name": "HD kote rural"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 993,
+  "fields": {
+    "hobli": 66,
+    "name": "Basavanagiri A Hadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 994,
+  "fields": {
+    "hobli": 66,
+    "name": "Budanur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 995,
+  "fields": {
+    "hobli": 16,
+    "name": "Devalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 996,
+  "fields": {
+    "hobli": 66,
+    "name": "Hirehalli B Colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 997,
+  "fields": {
+    "hobli": 66,
+    "name": "Hirehalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 998,
+  "fields": {
+    "hobli": 66,
+    "name": "Machanayakanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 999,
+  "fields": {
+    "hobli": 66,
+    "name": "Anthony Nagara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1000,
+  "fields": {
+    "hobli": 66,
+    "name": "Balayesu Nagara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1001,
+  "fields": {
+    "hobli": 23,
+    "name": "Shivapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1002,
+  "fields": {
+    "hobli": 23,
+    "name": "Kalanahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1003,
+  "fields": {
+    "hobli": 67,
+    "name": "Budanur "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1004,
+  "fields": {
+    "hobli": 42,
+    "name": "Baguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1005,
+  "fields": {
+    "hobli": 18,
+    "name": "kudlapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1006,
+  "fields": {
+    "hobli": 67,
+    "name": "Hirehalli B Colony "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1007,
+  "fields": {
+    "hobli": 67,
+    "name": "Taraka"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1008,
+  "fields": {
+    "hobli": 67,
+    "name": "Penjahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1009,
+  "fields": {
+    "hobli": 67,
+    "name": "Hirehalli "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1010,
+  "fields": {
+    "hobli": 11,
+    "name": "Kodahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1011,
+  "fields": {
+    "hobli": 5,
+    "name": "Savakanahallipalya"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1012,
+  "fields": {
+    "hobli": 5,
+    "name": "Savakanahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1013,
+  "fields": {
+    "hobli": 11,
+    "name": "Mantipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1014,
+  "fields": {
+    "hobli": 69,
+    "name": "Sunnakallu Munti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1015,
+  "fields": {
+    "hobli": 35,
+    "name": "Muuddahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1016,
+  "fields": {
+    "hobli": 11,
+    "name": "Mookahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1017,
+  "fields": {
+    "hobli": 11,
+    "name": "Mookahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1018,
+  "fields": {
+    "hobli": 11,
+    "name": "mukahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1019,
+  "fields": {
+    "hobli": 82,
+    "name": "Kothegala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1020,
+  "fields": {
+    "hobli": 11,
+    "name": "Thenkalahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1021,
+  "fields": {
+    "hobli": 11,
+    "name": "Mookkahally coloney"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1022,
+  "fields": {
+    "hobli": 11,
+    "name": "Mookahallicolony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1023,
+  "fields": {
+    "hobli": 11,
+    "name": "mookalli colooni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1024,
+  "fields": {
+    "hobli": 8,
+    "name": "Moleyuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1025,
+  "fields": {
+    "hobli": 42,
+    "name": "Halepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1026,
+  "fields": {
+    "hobli": 45,
+    "name": "Gattavadipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1027,
+  "fields": {
+    "hobli": 66,
+    "name": "Honnashettara hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1028,
+  "fields": {
+    "hobli": 8,
+    "name": "Kapileshwara colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1029,
+  "fields": {
+    "hobli": 17,
+    "name": "Ibjala"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1030,
+  "fields": {
+    "hobli": 23,
+    "name": "Chamalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1031,
+  "fields": {
+    "hobli": 38,
+    "name": "Sagade"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1032,
+  "fields": {
+    "hobli": 38,
+    "name": "Bettadapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1033,
+  "fields": {
+    "hobli": 23,
+    "name": "Kalegowdara hundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1034,
+  "fields": {
+    "hobli": 69,
+    "name": "Jiyara colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1035,
+  "fields": {
+    "hobli": 11,
+    "name": "Bheemanbeedu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1036,
+  "fields": {
+    "hobli": 11,
+    "name": "mookthi colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1037,
+  "fields": {
+    "hobli": 11,
+    "name": "Honnashettarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1038,
+  "fields": {
+    "hobli": 8,
+    "name": "Vallahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1039,
+  "fields": {
+    "hobli": 8,
+    "name": "Haleyuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1040,
+  "fields": {
+    "hobli": 8,
+    "name": "Hegganur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1041,
+  "fields": {
+    "hobli": 11,
+    "name": "Uttangerhundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1042,
+  "fields": {
+    "hobli": 11,
+    "name": "Uttengrehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1043,
+  "fields": {
+    "hobli": 11,
+    "name": "Uttangerehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1044,
+  "fields": {
+    "hobli": 66,
+    "name": "Alagudu"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1045,
+  "fields": {
+    "hobli": 72,
+    "name": "Kumbarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1046,
+  "fields": {
+    "hobli": 67,
+    "name": "kurahatti"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1047,
+  "fields": {
+    "hobli": 67,
+    "name": "koodlapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1048,
+  "fields": {
+    "hobli": 30,
+    "name": "kebbepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1049,
+  "fields": {
+    "hobli": 67,
+    "name": "Chakkodanahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1050,
+  "fields": {
+    "hobli": 58,
+    "name": "Jeeyara coloni"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1051,
+  "fields": {
+    "hobli": 7,
+    "name": "Sindhuvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1052,
+  "fields": {
+    "hobli": 83,
+    "name": "Sinduvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1053,
+  "fields": {
+    "hobli": 84,
+    "name": "Paduvalmarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1054,
+  "fields": {
+    "hobli": 84,
+    "name": "P Marahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1055,
+  "fields": {
+    "hobli": 7,
+    "name": "Shiramalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1056,
+  "fields": {
+    "hobli": 11,
+    "name": "hongalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1057,
+  "fields": {
+    "hobli": 83,
+    "name": "Sindhuvalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1058,
+  "fields": {
+    "hobli": 31,
+    "name": "Thoravahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1059,
+  "fields": {
+    "hobli": 11,
+    "name": "Hongahally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1060,
+  "fields": {
+    "hobli": 11,
+    "name": "Hongahali"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1061,
+  "fields": {
+    "hobli": 84,
+    "name": "Helavarahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1062,
+  "fields": {
+    "hobli": 45,
+    "name": "Gattavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1063,
+  "fields": {
+    "hobli": 11,
+    "name": "channamallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1064,
+  "fields": {
+    "hobli": 84,
+    "name": "Konanooru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1065,
+  "fields": {
+    "hobli": 7,
+    "name": "Belale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1066,
+  "fields": {
+    "hobli": 5,
+    "name": "Srikantapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1067,
+  "fields": {
+    "hobli": 67,
+    "name": "Elachagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1068,
+  "fields": {
+    "hobli": 84,
+    "name": "Malla Halli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1069,
+  "fields": {
+    "hobli": 31,
+    "name": "Kebbepura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1070,
+  "fields": {
+    "hobli": 11,
+    "name": "annur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1071,
+  "fields": {
+    "hobli": 31,
+    "name": "Heggadahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1072,
+  "fields": {
+    "hobli": 84,
+    "name": "Basavattige"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1073,
+  "fields": {
+    "hobli": 7,
+    "name": "Shiramally"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1074,
+  "fields": {
+    "hobli": 66,
+    "name": "Annurkeri"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1075,
+  "fields": {
+    "hobli": 67,
+    "name": "Sattigehundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1076,
+  "fields": {
+    "hobli": 67,
+    "name": "Ankanatha Pura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1077,
+  "fields": {
+    "hobli": 67,
+    "name": "Tharaka"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1078,
+  "fields": {
+    "hobli": 30,
+    "name": "Kulagana"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1079,
+  "fields": {
+    "hobli": 84,
+    "name": "Baguru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1080,
+  "fields": {
+    "hobli": 84,
+    "name": "Koodlapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1081,
+  "fields": {
+    "hobli": 84,
+    "name": "Kumbarahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1082,
+  "fields": {
+    "hobli": 84,
+    "name": "Nerale"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1083,
+  "fields": {
+    "hobli": 11,
+    "name": "Shettahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1084,
+  "fields": {
+    "hobli": 5,
+    "name": "Shettahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1085,
+  "fields": {
+    "hobli": 11,
+    "name": "Nenekatte"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1086,
+  "fields": {
+    "hobli": 85,
+    "name": "Hebbalaguppe"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1087,
+  "fields": {
+    "hobli": 16,
+    "name": "Kilalipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1088,
+  "fields": {
+    "hobli": 30,
+    "name": "Heggotara"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1089,
+  "fields": {
+    "hobli": 31,
+    "name": "Kabbahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1090,
+  "fields": {
+    "hobli": 5,
+    "name": "Alathur"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1091,
+  "fields": {
+    "hobli": 66,
+    "name": "Mallaiahnapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1092,
+  "fields": {
+    "hobli": 16,
+    "name": "Kethahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1093,
+  "fields": {
+    "hobli": 16,
+    "name": "Nanjadevanapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1094,
+  "fields": {
+    "hobli": 30,
+    "name": "Shriramapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1095,
+  "fields": {
+    "hobli": 5,
+    "name": "Deshipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1096,
+  "fields": {
+    "hobli": 5,
+    "name": "Siddaiahnapura colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1097,
+  "fields": {
+    "hobli": 11,
+    "name": "Siddaiahanapura colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1098,
+  "fields": {
+    "hobli": 8,
+    "name": "Masahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1099,
+  "fields": {
+    "hobli": 11,
+    "name": "Gopalapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1100,
+  "fields": {
+    "hobli": 11,
+    "name": "Kilagere"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1101,
+  "fields": {
+    "hobli": 11,
+    "name": "Bettahalli"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1102,
+  "fields": {
+    "hobli": 11,
+    "name": "Mookahally colony"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1103,
+  "fields": {
+    "hobli": 42,
+    "name": "Gattavadi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1104,
+  "fields": {
+    "hobli": 45,
+    "name": "Haraginapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1105,
+  "fields": {
+    "hobli": 10,
+    "name": "chikkathuppuru"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1106,
+  "fields": {
+    "hobli": 68,
+    "name": "Doddapuram "
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1107,
+  "fields": {
+    "hobli": 66,
+    "name": "Sindhuvallipura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1108,
+  "fields": {
+    "hobli": 14,
+    "name": "Maddaiahnahundi"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1109,
+  "fields": {
+    "hobli": 7,
+    "name": "Chilkahally\t"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1110,
+  "fields": {
+    "hobli": 7,
+    "name": "Ganeshapura"
+  }
+},
+{
+  "model": "knowledgebase.village",
+  "pk": 1111,
+  "fields": {
+    "hobli": 8,
+    "name": "Etthige"
+  }
+}
+]

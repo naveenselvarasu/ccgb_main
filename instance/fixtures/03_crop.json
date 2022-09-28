@@ -1,0 +1,12 @@
+[
+{
+  "model": "instance.crop",
+  "pk": 1,
+  "fields": {
+    "business": 1,
+    "name": "Marigold",
+    "age_in_days": 150,
+    "notes": "marigold"
+  }
+}
+]

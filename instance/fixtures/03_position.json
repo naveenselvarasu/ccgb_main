@@ -1,0 +1,90 @@
+[
+{
+  "model": "instance.position",
+  "pk": 1,
+  "fields": {
+    "name": "AFS01",
+    "notes": "Asst Filed Supervisor 01",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 2,
+  "fields": {
+    "name": "AFS02",
+    "notes": "Asst Filed Supervisor 02",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 3,
+  "fields": {
+    "name": "AFS03",
+    "notes": "Asst Filed Supervisor 03",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 4,
+  "fields": {
+    "name": "AFS04",
+    "notes": "Asst Filed Supervisor 04",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 5,
+  "fields": {
+    "name": "AFS05",
+    "notes": "Asst Filed Supervisor 05",
+    "is_active": true,
+    "time_created": "2020-03-19T11:54:47.471Z",
+    "time_modified": "2020-03-19T11:54:49.496Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 6,
+  "fields": {
+    "name": "AFS06",
+    "notes": "Asst Filed Supervisor 06",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 7,
+  "fields": {
+    "name": "AFS07",
+    "notes": "Asst Filed Supervisor 07",
+    "is_active": true,
+    "time_created": "2020-03-10T10:56:24Z",
+    "time_modified": "2020-03-10T10:56:24Z"
+  }
+},
+{
+  "model": "instance.position",
+  "pk": 8,
+  "fields": {
+    "name": "AFS08",
+    "notes": "Asst Filed Supervisor 08",
+    "is_active": true,
+    "time_created": "2020-03-19T11:55:56.551Z",
+    "time_modified": "2020-03-19T11:55:59.522Z"
+  }
+}
+]

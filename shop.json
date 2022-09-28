@@ -1,0 +1,82 @@
+[
+{
+  "model": "inputdistri.shop",
+  "pk": 1,
+  "fields": {
+    "name": "agri store",
+    "contact_person": "ccgb agri store",
+    "contact_person_mobile_number": "11111111",
+    "shop_mobile": "11111",
+    "type": 1,
+    "address": "Shivaleela traders",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2021-04-17T07:36:40.138Z"
+  }
+},
+{
+  "model": "inputdistri.shop",
+  "pk": 2,
+  "fields": {
+    "name": "Shivaleela traders",
+    "contact_person": "Shivaleela traders",
+    "contact_person_mobile_number": "11111111",
+    "shop_mobile": "11111",
+    "type": 3,
+    "address": "Shivaleela traders",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2021-04-17T07:36:40.138Z"
+  }
+},
+{
+  "model": "inputdistri.shop",
+  "pk": 3,
+  "fields": {
+    "name": "Mallikarjunaswamy Traders.",
+    "contact_person": "Mallikarjunaswamy Traders.",
+    "contact_person_mobile_number": "11111111",
+    "shop_mobile": "11111",
+    "type": 3,
+    "address": "Mallikarjunaswamy Traders.",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2021-04-17T07:36:40.138Z"
+  }
+},
+{
+  "model": "inputdistri.shop",
+  "pk": 4,
+  "fields": {
+    "name": "Shiva agro Cart.",
+    "contact_person": "Shiva agro Cart.",
+    "contact_person_mobile_number": "11111111",
+    "shop_mobile": "11111",
+    "type": 3,
+    "address": "Shiva agro Cart.",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2021-04-17T07:36:40.138Z"
+  }
+},
+{
+  "model": "inputdistri.shop",
+  "pk": 5,
+  "fields": {
+    "name": "Direct delivery",
+    "contact_person": "Direct delivery",
+    "contact_person_mobile_number": "11111111",
+    "shop_mobile": "11111",
+    "type": 2,
+    "address": "Direct delivery",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2021-04-17T07:36:40.138Z"
+  }
+}
+]

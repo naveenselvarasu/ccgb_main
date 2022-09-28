@@ -1,0 +1,23 @@
+[
+{
+  "model": "inputdistri.shoptype",
+  "pk": 1,
+  "fields": {
+    "name": "agri"
+  }
+},
+{
+  "model": "inputdistri.shoptype",
+  "pk": 2,
+  "fields": {
+    "name": "direct delivery"
+  }
+},
+{
+  "model": "inputdistri.shoptype",
+  "pk": 3,
+  "fields": {
+    "name": "External shops"
+  }
+}
+]

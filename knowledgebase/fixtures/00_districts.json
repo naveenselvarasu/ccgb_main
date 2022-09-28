@@ -1,0 +1,312 @@
+[
+{
+  "model": "knowledgebase.district",
+  "pk": 1,
+  "fields": {
+    "state": 2,
+    "name": "Erode",
+    "code": "ED",
+    "capital": "Erode"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 4,
+  "fields": {
+    "state": 1,
+    "name": "Bagalkot",
+    "code": "BK",
+    "capital": "Bagalkot"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 5,
+  "fields": {
+    "state": 1,
+    "name": "Bengaluru Urban",
+    "code": "BN",
+    "capital": "Bengaluru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 6,
+  "fields": {
+    "state": 1,
+    "name": "Bengaluru Rural",
+    "code": "BR",
+    "capital": "Bengaluru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 7,
+  "fields": {
+    "state": 1,
+    "name": "Belagavi",
+    "code": "BG",
+    "capital": "Belagavi"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 8,
+  "fields": {
+    "state": 1,
+    "name": "Ballari",
+    "code": "BL",
+    "capital": "Ballari"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 9,
+  "fields": {
+    "state": 1,
+    "name": "Bidar",
+    "code": "BD",
+    "capital": "Bidar"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 10,
+  "fields": {
+    "state": 1,
+    "name": "Vijayapur",
+    "code": "BJ",
+    "capital": "Vijayapur"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 11,
+  "fields": {
+    "state": 1,
+    "name": "Chamarajanagar",
+    "code": "CJ",
+    "capital": "Chamarajanagar"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 12,
+  "fields": {
+    "state": 1,
+    "name": "Chikballapur",
+    "code": "nan",
+    "capital": "Chikballapur"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 13,
+  "fields": {
+    "state": 1,
+    "name": "Chikkamagaluru",
+    "code": "CK",
+    "capital": "Chikkamagaluru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 14,
+  "fields": {
+    "state": 1,
+    "name": "Chitradurga",
+    "code": "CT",
+    "capital": "Chitradurga"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 15,
+  "fields": {
+    "state": 1,
+    "name": "Dakshina Kannada",
+    "code": "DK",
+    "capital": "Mangaluru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 16,
+  "fields": {
+    "state": 1,
+    "name": "Davanagere",
+    "code": "DA",
+    "capital": "Davanagere"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 17,
+  "fields": {
+    "state": 1,
+    "name": "Dharwad",
+    "code": "DH",
+    "capital": "Dharwad"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 18,
+  "fields": {
+    "state": 1,
+    "name": "Gadag",
+    "code": "GA",
+    "capital": "Gadag"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 19,
+  "fields": {
+    "state": 1,
+    "name": "Kalaburagi",
+    "code": "GU",
+    "capital": "Kalaburagi"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 20,
+  "fields": {
+    "state": 1,
+    "name": "Hassan",
+    "code": "HS",
+    "capital": "Hassan"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 21,
+  "fields": {
+    "state": 1,
+    "name": "Haveri",
+    "code": "HV",
+    "capital": "Haveri"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 22,
+  "fields": {
+    "state": 1,
+    "name": "Kodagu",
+    "code": "KD",
+    "capital": "Madikeri"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 23,
+  "fields": {
+    "state": 1,
+    "name": "Kolar",
+    "code": "KL",
+    "capital": "Kolar"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 24,
+  "fields": {
+    "state": 1,
+    "name": "Koppal",
+    "code": "KP",
+    "capital": "Koppal"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 25,
+  "fields": {
+    "state": 1,
+    "name": "Mandya",
+    "code": "MA",
+    "capital": "Mandya"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 26,
+  "fields": {
+    "state": 1,
+    "name": "Mysuru",
+    "code": "MY",
+    "capital": "Mysuru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 27,
+  "fields": {
+    "state": 1,
+    "name": "Raichur",
+    "code": "RA",
+    "capital": "Raichur"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 28,
+  "fields": {
+    "state": 1,
+    "name": "Ramanagara",
+    "code": "nan",
+    "capital": "Ramanagara"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 29,
+  "fields": {
+    "state": 1,
+    "name": "Shivamogga",
+    "code": "SH",
+    "capital": "Shivamogga"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 30,
+  "fields": {
+    "state": 1,
+    "name": "Tumakuru",
+    "code": "TU",
+    "capital": "Tumakuru"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 31,
+  "fields": {
+    "state": 1,
+    "name": "Udupi",
+    "code": "UD",
+    "capital": "Udupi"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 32,
+  "fields": {
+    "state": 1,
+    "name": "Uttara Kannada",
+    "code": "UK",
+    "capital": "Karwar"
+  }
+},
+{
+  "model": "knowledgebase.district",
+  "pk": 33,
+  "fields": {
+    "state": 1,
+    "name": "Yadgir",
+    "code": "nan",
+    "capital": "Yadgir"
+  }
+}
+]

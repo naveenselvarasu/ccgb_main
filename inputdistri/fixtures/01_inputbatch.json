@@ -1,0 +1,44 @@
+[
+{
+  "model": "inputdistri.inputbatch",
+  "pk": 1,
+  "fields": {
+    "business": 1,
+    "input_type": 1,
+    "code": "OLD2019",
+    "source": "Parent Company China",
+    "date_of_manufacturing": "2019-02-02",
+    "date_of_expiry": "2020-12-31",
+    "date_of_receipt": "2019-03-01",
+    "quantity_at_receipt": 1000,
+    "quantity_now": 750,
+    "quantity_now_time": "2020-03-18T16:39:26.114Z",
+    "unit": 1,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T16:39:26.114Z",
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+},
+{
+  "model": "inputdistri.inputbatch",
+  "pk": 2,
+  "fields": {
+    "business": 1,
+    "input_type": 1,
+    "code": "NEW2020",
+    "source": "Parent Company China",
+    "date_of_manufacturing": "2020-02-02",
+    "date_of_expiry": "2021-12-31",
+    "date_of_receipt": "2020-03-01",
+    "quantity_at_receipt": 1500,
+    "quantity_now": 1500,
+    "quantity_now_time": "2020-03-18T15:17:26.207Z",
+    "unit": 1,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T15:17:26.207Z",
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+}
+]

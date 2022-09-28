@@ -1,0 +1,23 @@
+[
+{
+  "model": "knowledgebase.caste",
+  "pk": 1,
+  "fields": {
+    "name": "BC"
+  }
+},
+{
+  "model": "knowledgebase.caste",
+  "pk": 2,
+  "fields": {
+    "name": "OC"
+  }
+},
+{
+  "model": "knowledgebase.caste",
+  "pk": 3,
+  "fields": {
+    "name": "MBC"
+  }
+}
+]

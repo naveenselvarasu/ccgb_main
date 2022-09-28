@@ -1,0 +1,16 @@
+[
+{
+  "model": "inputdistri.inputstockstatus",
+  "pk": 1,
+  "fields": {
+    "name": "At_storage"
+  }
+},
+{
+  "model": "inputdistri.inputstockstatus",
+  "pk": 2,
+  "fields": {
+    "name": "Dispatched"
+  }
+}
+]

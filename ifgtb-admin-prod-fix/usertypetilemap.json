@@ -1,0 +1,393 @@
+[
+{
+  "model": "main.usertypetilesmap",
+  "pk": 1,
+  "fields": {
+    "user_type": 3,
+    "tile": 16,
+    "css_class_name": "tile-background-three",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "icon-class-two",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 2,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 2,
+  "fields": {
+    "user_type": 3,
+    "tile": 2,
+    "css_class_name": "tile-background-one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 3,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 5,
+  "fields": {
+    "user_type": 3,
+    "tile": 5,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 5,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 11,
+  "fields": {
+    "user_type": 3,
+    "tile": 11,
+    "css_class_name": "tile-background-one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 1,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 17,
+  "fields": {
+    "user_type": 3,
+    "tile": 14,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 4,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 18,
+  "fields": {
+    "user_type": 3,
+    "tile": 15,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 6,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 19,
+  "fields": {
+    "user_type": 5,
+    "tile": 11,
+    "css_class_name": "tile-background-one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 6,
+    "is_icon_available": true,
+    "display_ordinal": 1,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 20,
+  "fields": {
+    "user_type": 5,
+    "tile": 14,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 4,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 21,
+  "fields": {
+    "user_type": 5,
+    "tile": 5,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 5,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 22,
+  "fields": {
+    "user_type": 5,
+    "tile": 15,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 6,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 23,
+  "fields": {
+    "user_type": 5,
+    "tile": 16,
+    "css_class_name": "tile-background-three",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "icon-class-two",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 2,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 24,
+  "fields": {
+    "user_type": 5,
+    "tile": 17,
+    "css_class_name": "tile-background-one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 6,
+    "is_icon_available": true,
+    "display_ordinal": 3,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 25,
+  "fields": {
+    "user_type": 1,
+    "tile": 14,
+    "css_class_name": "tile-background-two",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 4,
+    "is_active": false,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 26,
+  "fields": {
+    "user_type": 1,
+    "tile": 5,
+    "css_class_name": "white_tile_eight set_eight",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "small_tile_text",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 8,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 27,
+  "fields": {
+    "user_type": 1,
+    "tile": 15,
+    "css_class_name": "white_tile_nine set_nine",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "small_tile_text",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 9,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 28,
+  "fields": {
+    "user_type": 1,
+    "tile": 11,
+    "css_class_name": "white_tile_one set_one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "tile_image_one",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 1,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 29,
+  "fields": {
+    "user_type": 1,
+    "tile": 2,
+    "css_class_name": "white_tile_three set_three",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "tile_image_three",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 3,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 30,
+  "fields": {
+    "user_type": 1,
+    "tile": 1,
+    "css_class_name": "white_tile_two set_two",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "tile_image_two",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 2,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 31,
+  "fields": {
+    "user_type": 1,
+    "tile": 18,
+    "css_class_name": "white_tile_four set_four",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "tile_image_four",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 4,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 32,
+  "fields": {
+    "user_type": 1,
+    "tile": 19,
+    "css_class_name": "white_tile_five set_five",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "tile_image_five",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 5,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 33,
+  "fields": {
+    "user_type": 1,
+    "tile": 20,
+    "css_class_name": "white_tile_six set_six",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "tile_image_six",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 6,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 34,
+  "fields": {
+    "user_type": 1,
+    "tile": 21,
+    "css_class_name": "white_tile_seven set_seven",
+    "title_class_name": "title-class-two",
+    "icon_class_name": "small_tile_text",
+    "column_size": 4,
+    "is_icon_available": false,
+    "display_ordinal": 7,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+},
+{
+  "model": "main.usertypetilesmap",
+  "pk": 35,
+  "fields": {
+    "user_type": 5,
+    "tile": 3,
+    "css_class_name": "white_tile_one set_one",
+    "title_class_name": "title-class-one ",
+    "icon_class_name": "icon-class-one",
+    "column_size": 4,
+    "is_icon_available": true,
+    "display_ordinal": 3,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:47.524",
+    "time_modified": "2021-04-21T17:57:49.540"
+  }
+}
+]

@@ -1,0 +1,74 @@
+[
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 1,
+  "fields": {
+    "input": 1,
+    "name": "Seed",
+    "type": 1
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 5,
+  "fields": {
+    "input": 9,
+    "name": "19:19:19",
+    "type": 3
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 6,
+  "fields": {
+    "input": 5,
+    "name": "Urea",
+    "type": 3
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 7,
+  "fields": {
+    "input": 10,
+    "name": "Urea",
+    "type": 3
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 8,
+  "fields": {
+    "input": 10,
+    "name": "Urea",
+    "type": 3
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 9,
+  "fields": {
+    "input": 10,
+    "name": "Urea",
+    "type": 3
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 10,
+  "fields": {
+    "input": 8,
+    "name": "Imidachlopid",
+    "type": 2
+  }
+},
+{
+  "model": "inputdistri.inputitemgroup",
+  "pk": 11,
+  "fields": {
+    "input": 11,
+    "name": "Imidachlopid",
+    "type": 2
+  }
+}
+]

@@ -1,0 +1,18 @@
+[
+{
+  "model": "knowledgebase.state",
+  "pk": 1,
+  "fields": {
+    "name": "Karnataka",
+    "code": "KA"
+  }
+},
+{
+  "model": "knowledgebase.state",
+  "pk": 2,
+  "fields": {
+    "name": "Tamil Nadu",
+    "code": "TN"
+  }
+}
+]

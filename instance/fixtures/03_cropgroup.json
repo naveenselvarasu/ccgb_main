@@ -1,0 +1,11 @@
+[
+{
+  "model": "instance.cropgroup",
+  "pk": 1,
+  "fields": {
+    "business": 1,
+    "name": "Flower",
+    "short_name": "Flower"
+  }
+}
+]

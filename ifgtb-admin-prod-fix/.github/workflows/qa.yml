@@ -1,0 +1,41 @@
+name: Deploy to Amazon ECS (QA)
+on:
+ push:
+   branches:
+     - prod-fix
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    environment: qa
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+     
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.DEV_AWS_REGION }}
+    
+    - name: Login to Amazon ECR
+      id: login-ecr
+      uses: aws-actions/amazon-ecr-login@v1
+
+    - name: Build, tag, and push image tws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 848518183369.dkr.ecr.us-east-1.amazonaws.com
+      run: |
+        docker build -t jamun-qa .
+        docker tag jamun-qa:latest 848518183369.dkr.ecr.us-east-1.amazonaws.com/jamun-qa:latest
+        docker push 848518183369.dkr.ecr.us-east-1.amazonaws.com/jamun-qa:latest
+        
+    # - name: ECS Restart Service
+    #   uses: apideck-libraries/ecs-restart-service@v1
+    #   with: 
+    #     service: jamun-qa
+        
+    #     cluster: DEV-QA-KULTIVATE
+        
+    #     force-new-deploment: true

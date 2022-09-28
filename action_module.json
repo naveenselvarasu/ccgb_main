@@ -1,0 +1,401 @@
+[
+{
+  "model": "instance.actionmodulecv",
+  "pk": 1,
+  "fields": {
+    "name": "Sowing"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 2,
+  "fields": {
+    "name": "Farmer"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 3,
+  "fields": {
+    "name": "Water"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 4,
+  "fields": {
+    "name": "Procurement"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 5,
+  "fields": {
+    "name": "Harvest_report"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 6,
+  "fields": {
+    "name": "Bank"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 7,
+  "fields": {
+    "name": "Agent"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 8,
+  "fields": {
+    "name": "Enroll_report"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 9,
+  "fields": {
+    "name": "Prediction"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 10,
+  "fields": {
+    "name": "Agent Procurement"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 11,
+  "fields": {
+    "name": "Agent input stock"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 12,
+  "fields": {
+    "name": "Agent Supply Input To Farmer"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 13,
+  "fields": {
+    "name": "Agent Return  Input"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 14,
+  "fields": {
+    "name": "Agent Input balance"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 15,
+  "fields": {
+    "name": "Access Control "
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 16,
+  "fields": {
+    "name": "Gps_report"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 17,
+  "fields": {
+    "name": "Employees"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 18,
+  "fields": {
+    "name": "Role Assignment"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 19,
+  "fields": {
+    "name": "Batch"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 20,
+  "fields": {
+    "name": "Main Inventory"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 21,
+  "fields": {
+    "name": "Story Inventory"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 22,
+  "fields": {
+    "name": "Agent Inventory"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 23,
+  "fields": {
+    "name": "Forecast"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 24,
+  "fields": {
+    "name": "Procurement Analysis"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 25,
+  "fields": {
+    "name": "Procurement"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 26,
+  "fields": {
+    "name": " Procurement Log"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 27,
+  "fields": {
+    "name": "procurement Summary"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 28,
+  "fields": {
+    "name": "Farmer Report"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 29,
+  "fields": {
+    "name": "Procurement Report"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 30,
+  "fields": {
+    "name": "Employee Bank"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 31,
+  "fields": {
+    "name": "Agent Bank"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 32,
+  "fields": {
+    "name": "Agent Profile"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 33,
+  "fields": {
+    "name": "Roles"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 34,
+  "fields": {
+    "name": "Harvest"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 35,
+  "fields": {
+    "name": "Bulk Harvest"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 36,
+  "fields": {
+    "name": "Edit Str value"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 37,
+  "fields": {
+    "name": "Manual Bulk harvest"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 38,
+  "fields": {
+    "name": "changing option for allowing other agent farmers in harvest record"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 39,
+  "fields": {
+    "name": "remove harvest"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 40,
+  "fields": {
+    "name": "remove procurement"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 41,
+  "fields": {
+    "name": "show request raise in mobile"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 42,
+  "fields": {
+    "name": "Senior supervisor approval"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 43,
+  "fields": {
+    "name": "Assitant manager"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 44,
+  "fields": {
+    "name": "Mobile Reports"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 45,
+  "fields": {
+    "name": "Gm approval"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 46,
+  "fields": {
+    "name": "Edit Unique Code"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 47,
+  "fields": {
+    "name": "agent price distribution"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 48,
+  "fields": {
+    "name": "agent price change approval"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 49,
+  "fields": {
+    "name": "agent price change log"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 50,
+  "fields": {
+    "name": "Menu"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 51,
+  "fields": {
+    "name": "Season Management"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 52,
+  "fields": {
+    "name": "Input Management"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 53,
+  "fields": {
+    "name": "Yeild Prediction"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 54,
+  "fields": {
+    "name": "Procurement"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 55,
+  "fields": {
+    "name": "Reports"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 56,
+  "fields": {
+    "name": "Agent Cost Module"
+  }
+},
+{
+  "model": "instance.actionmodulecv",
+  "pk": 57,
+  "fields": {
+    "name": "Geo Fence Visualization"
+  }
+}
+]

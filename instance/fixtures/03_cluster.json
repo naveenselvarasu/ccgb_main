@@ -1,0 +1,58 @@
+[
+{
+  "model": "instance.cluster",
+  "pk": 1,
+  "fields": {
+    "name": "Gundlupet 1",
+    "notes": "Gundlupet 1"
+  }
+},
+  {
+  "model": "instance.cluster",
+  "pk": 2,
+  "fields": {
+    "name": "Gundlupet 2",
+    "notes": "Gundlupet 2"
+  }
+},
+{
+  "model": "instance.cluster",
+  "pk": 3,
+  "fields": {
+    "name": "Hanoor",
+    "notes": "Hanoor"
+  }
+},
+{
+  "model": "instance.cluster",
+  "pk": 4,
+  "fields": {
+    "name": "Kollegala",
+    "notes": "Kollegala"
+  }
+},
+{
+  "model": "instance.cluster",
+  "pk": 5,
+  "fields": {
+    "name": "Nanjangud",
+    "notes": "Nanjangud"
+  }
+},
+{
+  "model": "instance.cluster",
+  "pk": 6,
+  "fields": {
+    "name": "Sargur",
+    "notes": "Sargur"
+  }
+},
+{
+  "model": "instance.cluster",
+  "pk": 7,
+  "fields": {
+    "name": "Sargur/CH Nagar",
+    "notes": "Sargur/CH Nagar"
+  }
+}
+]

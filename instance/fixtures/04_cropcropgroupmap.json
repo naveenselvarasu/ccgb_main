@@ -1,0 +1,10 @@
+[
+{
+  "model": "instance.cropcropgroupmap",
+  "pk": 1,
+  "fields": {
+    "crop": 1,
+    "crop_group": 1
+  }
+}
+]

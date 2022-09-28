@@ -1,0 +1,70 @@
+[
+{
+  "model": "inputdistri.inputiteminputbatchmap",
+  "pk": 1,
+  "fields": {
+    "item": 2,
+    "batch": 1,
+    "code": "OLD500g",
+    "quantity_at_receipt": 1000,
+    "quantity_now": 900,
+    "quantity_now_time": "2020-03-18T16:39:26.101Z",
+    "unit": 4,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T16:39:26.102Z",
+    "time_created": "2020-03-14T04:59:02Z"
+  }
+},
+{
+  "model": "inputdistri.inputiteminputbatchmap",
+  "pk": 2,
+  "fields": {
+    "item": 3,
+    "batch": 1,
+    "code": "OLD1000g",
+    "quantity_at_receipt": 500,
+    "quantity_now": 500,
+    "quantity_now_time": "2020-03-18T16:29:44.407Z",
+    "unit": 4,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T16:29:44.407Z",
+    "time_created": "2020-03-14T04:59:02Z"
+  }
+},
+{
+  "model": "inputdistri.inputiteminputbatchmap",
+  "pk": 3,
+  "fields": {
+    "item": 2,
+    "batch": 2,
+    "code": "New500g",
+    "quantity_at_receipt": 2000,
+    "quantity_now": 2000,
+    "quantity_now_time": "2020-03-18T15:17:26.187Z",
+    "unit": 4,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T15:17:26.187Z",
+    "time_created": "2020-03-14T04:59:02Z"
+  }
+},
+{
+  "model": "inputdistri.inputiteminputbatchmap",
+  "pk": 4,
+  "fields": {
+    "item": 3,
+    "batch": 2,
+    "code": "New1000g",
+    "quantity_at_receipt": 500,
+    "quantity_now": 500,
+    "quantity_now_time": "2020-03-18T14:59:16.674Z",
+    "unit": 4,
+    "created_by": 1,
+    "modified_by": 1,
+    "time_modified": "2020-03-18T14:59:16.675Z",
+    "time_created": "2020-03-14T04:59:02Z"
+  }
+}
+]

@@ -1,0 +1,8640 @@
+[
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 4,
+  "fields": {
+    "user_type": 5,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:42:54.480Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 5,
+  "fields": {
+    "user_type": 5,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-05-26T11:16:33.590Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 6,
+  "fields": {
+    "user_type": 5,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 7,
+  "fields": {
+    "user_type": 5,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:24.543Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 8,
+  "fields": {
+    "user_type": 5,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:56.602Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 9,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 10,
+  "fields": {
+    "user_type": 5,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:45:45.181Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 11,
+  "fields": {
+    "user_type": 5,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:45:38.109Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 12,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 13,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 14,
+  "fields": {
+    "user_type": 5,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 15,
+  "fields": {
+    "user_type": 5,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 16,
+  "fields": {
+    "user_type": 5,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 17,
+  "fields": {
+    "user_type": 5,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 18,
+  "fields": {
+    "user_type": 5,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 20,
+  "fields": {
+    "user_type": 5,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:05:57.812Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 21,
+  "fields": {
+    "user_type": 5,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 22,
+  "fields": {
+    "user_type": 5,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 23,
+  "fields": {
+    "user_type": 5,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:06:03.509Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 24,
+  "fields": {
+    "user_type": 5,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 25,
+  "fields": {
+    "user_type": 1,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:58.474Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 27,
+  "fields": {
+    "user_type": 1,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 28,
+  "fields": {
+    "user_type": 1,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:17:47.115Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 29,
+  "fields": {
+    "user_type": 1,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:17:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 30,
+  "fields": {
+    "user_type": 1,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:17:49.892Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 31,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:54:15.722Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 32,
+  "fields": {
+    "user_type": 1,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 33,
+  "fields": {
+    "user_type": 1,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 34,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:17:34.407Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 35,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:17:41.116Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 36,
+  "fields": {
+    "user_type": 1,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:18:27.751Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 37,
+  "fields": {
+    "user_type": 1,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 38,
+  "fields": {
+    "user_type": 1,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 39,
+  "fields": {
+    "user_type": 1,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 40,
+  "fields": {
+    "user_type": 1,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 41,
+  "fields": {
+    "user_type": 1,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 42,
+  "fields": {
+    "user_type": 1,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 43,
+  "fields": {
+    "user_type": 1,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 44,
+  "fields": {
+    "user_type": 1,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 45,
+  "fields": {
+    "user_type": 1,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 46,
+  "fields": {
+    "user_type": 2,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:42:22.052Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 47,
+  "fields": {
+    "user_type": 2,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 48,
+  "fields": {
+    "user_type": 2,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 49,
+  "fields": {
+    "user_type": 2,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:47.056Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 50,
+  "fields": {
+    "user_type": 2,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:50.228Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 51,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:54:15.722Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 52,
+  "fields": {
+    "user_type": 2,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 53,
+  "fields": {
+    "user_type": 2,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 54,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:03.612Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 55,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:53.212Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 56,
+  "fields": {
+    "user_type": 2,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:06.545Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 57,
+  "fields": {
+    "user_type": 2,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 58,
+  "fields": {
+    "user_type": 2,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 59,
+  "fields": {
+    "user_type": 2,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 60,
+  "fields": {
+    "user_type": 2,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:03.542Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 61,
+  "fields": {
+    "user_type": 2,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:09.023Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 62,
+  "fields": {
+    "user_type": 2,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:06.093Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 63,
+  "fields": {
+    "user_type": 2,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:12.328Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 64,
+  "fields": {
+    "user_type": 2,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:14.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 65,
+  "fields": {
+    "user_type": 2,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 66,
+  "fields": {
+    "user_type": 3,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:52:49.404Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 67,
+  "fields": {
+    "user_type": 3,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 68,
+  "fields": {
+    "user_type": 3,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 69,
+  "fields": {
+    "user_type": 3,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:57.450Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 70,
+  "fields": {
+    "user_type": 3,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:05.044Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 71,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:52:47.039Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 72,
+  "fields": {
+    "user_type": 3,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 73,
+  "fields": {
+    "user_type": 3,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:23.320Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 74,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:23:46.901Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 75,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:08.690Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 76,
+  "fields": {
+    "user_type": 3,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:23:49.515Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 77,
+  "fields": {
+    "user_type": 3,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 78,
+  "fields": {
+    "user_type": 3,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 79,
+  "fields": {
+    "user_type": 3,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 80,
+  "fields": {
+    "user_type": 3,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:52.642Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 81,
+  "fields": {
+    "user_type": 3,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:55.829Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 82,
+  "fields": {
+    "user_type": 3,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:03:59.085Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 83,
+  "fields": {
+    "user_type": 3,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:04:04.406Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 84,
+  "fields": {
+    "user_type": 3,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:04:01.812Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 85,
+  "fields": {
+    "user_type": 3,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 86,
+  "fields": {
+    "user_type": 4,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:51:56.382Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 87,
+  "fields": {
+    "user_type": 4,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-05-26T11:17:55.418Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 88,
+  "fields": {
+    "user_type": 4,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 89,
+  "fields": {
+    "user_type": 4,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:24.543Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 90,
+  "fields": {
+    "user_type": 4,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:56.602Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 91,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T06:52:01.795Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 92,
+  "fields": {
+    "user_type": 4,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:20:45.106Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 93,
+  "fields": {
+    "user_type": 4,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 94,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 95,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 96,
+  "fields": {
+    "user_type": 4,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 97,
+  "fields": {
+    "user_type": 4,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 98,
+  "fields": {
+    "user_type": 4,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 99,
+  "fields": {
+    "user_type": 4,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 100,
+  "fields": {
+    "user_type": 4,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 101,
+  "fields": {
+    "user_type": 4,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 102,
+  "fields": {
+    "user_type": 4,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 103,
+  "fields": {
+    "user_type": 4,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 104,
+  "fields": {
+    "user_type": 4,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 105,
+  "fields": {
+    "user_type": 4,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 106,
+  "fields": {
+    "user_type": 6,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:58.474Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 107,
+  "fields": {
+    "user_type": 6,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 108,
+  "fields": {
+    "user_type": 6,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 109,
+  "fields": {
+    "user_type": 6,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:24.543Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 110,
+  "fields": {
+    "user_type": 6,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:56.602Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 111,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:54:15.722Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 112,
+  "fields": {
+    "user_type": 6,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 113,
+  "fields": {
+    "user_type": 6,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 114,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 115,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 116,
+  "fields": {
+    "user_type": 6,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 117,
+  "fields": {
+    "user_type": 6,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 118,
+  "fields": {
+    "user_type": 6,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 119,
+  "fields": {
+    "user_type": 6,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 120,
+  "fields": {
+    "user_type": 6,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 121,
+  "fields": {
+    "user_type": 6,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 122,
+  "fields": {
+    "user_type": 6,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 123,
+  "fields": {
+    "user_type": 6,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 124,
+  "fields": {
+    "user_type": 6,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 125,
+  "fields": {
+    "user_type": 6,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:30:44.088Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 126,
+  "fields": {
+    "user_type": 8,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:58.474Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 127,
+  "fields": {
+    "user_type": 8,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 128,
+  "fields": {
+    "user_type": 8,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 129,
+  "fields": {
+    "user_type": 8,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:24.543Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 130,
+  "fields": {
+    "user_type": 8,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:56.602Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 131,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:54:15.722Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 132,
+  "fields": {
+    "user_type": 8,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 133,
+  "fields": {
+    "user_type": 8,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 134,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 135,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 136,
+  "fields": {
+    "user_type": 8,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 137,
+  "fields": {
+    "user_type": 8,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 138,
+  "fields": {
+    "user_type": 8,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 139,
+  "fields": {
+    "user_type": 8,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 140,
+  "fields": {
+    "user_type": 8,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 141,
+  "fields": {
+    "user_type": 8,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 142,
+  "fields": {
+    "user_type": 8,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 143,
+  "fields": {
+    "user_type": 8,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 144,
+  "fields": {
+    "user_type": 8,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 145,
+  "fields": {
+    "user_type": 8,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 146,
+  "fields": {
+    "user_type": 10,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 147,
+  "fields": {
+    "user_type": 10,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 148,
+  "fields": {
+    "user_type": 10,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 149,
+  "fields": {
+    "user_type": 10,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:24.543Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 150,
+  "fields": {
+    "user_type": 10,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:00:56.602Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 151,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:22.941Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 152,
+  "fields": {
+    "user_type": 10,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 153,
+  "fields": {
+    "user_type": 10,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 154,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 155,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 156,
+  "fields": {
+    "user_type": 10,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 157,
+  "fields": {
+    "user_type": 10,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 158,
+  "fields": {
+    "user_type": 10,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:30.006Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 159,
+  "fields": {
+    "user_type": 10,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T11:59:42.960Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 160,
+  "fields": {
+    "user_type": 10,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:10.574Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 161,
+  "fields": {
+    "user_type": 10,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 162,
+  "fields": {
+    "user_type": 10,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 163,
+  "fields": {
+    "user_type": 10,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 164,
+  "fields": {
+    "user_type": 10,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 165,
+  "fields": {
+    "user_type": 10,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 166,
+  "fields": {
+    "user_type": 10,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 167,
+  "fields": {
+    "user_type": 1,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 168,
+  "fields": {
+    "user_type": 2,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 169,
+  "fields": {
+    "user_type": 3,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 170,
+  "fields": {
+    "user_type": 4,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 171,
+  "fields": {
+    "user_type": 5,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 172,
+  "fields": {
+    "user_type": 8,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-22T04:42:36.363Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 173,
+  "fields": {
+    "user_type": 5,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 174,
+  "fields": {
+    "user_type": 1,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 175,
+  "fields": {
+    "user_type": 4,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 176,
+  "fields": {
+    "user_type": 6,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:23.640Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 177,
+  "fields": {
+    "user_type": 3,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 178,
+  "fields": {
+    "user_type": 2,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 179,
+  "fields": {
+    "user_type": 8,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 180,
+  "fields": {
+    "user_type": 10,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 181,
+  "fields": {
+    "user_type": 5,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 182,
+  "fields": {
+    "user_type": 1,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 183,
+  "fields": {
+    "user_type": 4,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 184,
+  "fields": {
+    "user_type": 6,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:28.843Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 185,
+  "fields": {
+    "user_type": 3,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 186,
+  "fields": {
+    "user_type": 2,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 187,
+  "fields": {
+    "user_type": 8,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 188,
+  "fields": {
+    "user_type": 10,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 189,
+  "fields": {
+    "user_type": 5,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 190,
+  "fields": {
+    "user_type": 1,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 191,
+  "fields": {
+    "user_type": 4,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 192,
+  "fields": {
+    "user_type": 6,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:26.019Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 193,
+  "fields": {
+    "user_type": 3,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 194,
+  "fields": {
+    "user_type": 2,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 195,
+  "fields": {
+    "user_type": 8,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 196,
+  "fields": {
+    "user_type": 10,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 197,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 198,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 199,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 200,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 201,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 202,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 203,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 204,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 205,
+  "fields": {
+    "user_type": 5,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 206,
+  "fields": {
+    "user_type": 1,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 207,
+  "fields": {
+    "user_type": 4,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 208,
+  "fields": {
+    "user_type": 6,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:30:02.316Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 209,
+  "fields": {
+    "user_type": 3,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:31:03.893Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 210,
+  "fields": {
+    "user_type": 2,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 211,
+  "fields": {
+    "user_type": 8,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 212,
+  "fields": {
+    "user_type": 10,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 213,
+  "fields": {
+    "user_type": 5,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 214,
+  "fields": {
+    "user_type": 1,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 215,
+  "fields": {
+    "user_type": 4,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 216,
+  "fields": {
+    "user_type": 6,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:40.103Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 217,
+  "fields": {
+    "user_type": 3,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:31:06.416Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 218,
+  "fields": {
+    "user_type": 2,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 219,
+  "fields": {
+    "user_type": 8,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 220,
+  "fields": {
+    "user_type": 10,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 221,
+  "fields": {
+    "user_type": 5,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 222,
+  "fields": {
+    "user_type": 1,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 223,
+  "fields": {
+    "user_type": 4,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 224,
+  "fields": {
+    "user_type": 6,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:57.068Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 225,
+  "fields": {
+    "user_type": 3,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:31:13.064Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 226,
+  "fields": {
+    "user_type": 2,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 227,
+  "fields": {
+    "user_type": 8,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 228,
+  "fields": {
+    "user_type": 10,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 229,
+  "fields": {
+    "user_type": 5,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 230,
+  "fields": {
+    "user_type": 1,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 231,
+  "fields": {
+    "user_type": 4,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 232,
+  "fields": {
+    "user_type": 6,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 233,
+  "fields": {
+    "user_type": 3,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 234,
+  "fields": {
+    "user_type": 2,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 235,
+  "fields": {
+    "user_type": 8,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 236,
+  "fields": {
+    "user_type": 10,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 237,
+  "fields": {
+    "user_type": 5,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 238,
+  "fields": {
+    "user_type": 1,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 239,
+  "fields": {
+    "user_type": 4,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 240,
+  "fields": {
+    "user_type": 6,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 241,
+  "fields": {
+    "user_type": 3,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 242,
+  "fields": {
+    "user_type": 2,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 243,
+  "fields": {
+    "user_type": 8,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 244,
+  "fields": {
+    "user_type": 10,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 245,
+  "fields": {
+    "user_type": 5,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 246,
+  "fields": {
+    "user_type": 1,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 247,
+  "fields": {
+    "user_type": 4,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 248,
+  "fields": {
+    "user_type": 6,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 249,
+  "fields": {
+    "user_type": 3,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 250,
+  "fields": {
+    "user_type": 2,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 251,
+  "fields": {
+    "user_type": 8,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 252,
+  "fields": {
+    "user_type": 10,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 253,
+  "fields": {
+    "user_type": 5,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 254,
+  "fields": {
+    "user_type": 1,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 255,
+  "fields": {
+    "user_type": 4,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 256,
+  "fields": {
+    "user_type": 6,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 257,
+  "fields": {
+    "user_type": 3,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 258,
+  "fields": {
+    "user_type": 2,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 259,
+  "fields": {
+    "user_type": 8,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 260,
+  "fields": {
+    "user_type": 10,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 261,
+  "fields": {
+    "user_type": 5,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 262,
+  "fields": {
+    "user_type": 1,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 263,
+  "fields": {
+    "user_type": 4,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 264,
+  "fields": {
+    "user_type": 6,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 265,
+  "fields": {
+    "user_type": 3,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 266,
+  "fields": {
+    "user_type": 2,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 267,
+  "fields": {
+    "user_type": 8,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 268,
+  "fields": {
+    "user_type": 10,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 269,
+  "fields": {
+    "user_type": 5,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 270,
+  "fields": {
+    "user_type": 1,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 271,
+  "fields": {
+    "user_type": 4,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 272,
+  "fields": {
+    "user_type": 6,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 273,
+  "fields": {
+    "user_type": 3,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 274,
+  "fields": {
+    "user_type": 2,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 275,
+  "fields": {
+    "user_type": 8,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 276,
+  "fields": {
+    "user_type": 10,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 277,
+  "fields": {
+    "user_type": 5,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 278,
+  "fields": {
+    "user_type": 1,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 279,
+  "fields": {
+    "user_type": 4,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 280,
+  "fields": {
+    "user_type": 6,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 281,
+  "fields": {
+    "user_type": 3,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 282,
+  "fields": {
+    "user_type": 2,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 283,
+  "fields": {
+    "user_type": 8,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 284,
+  "fields": {
+    "user_type": 10,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 285,
+  "fields": {
+    "user_type": 5,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 286,
+  "fields": {
+    "user_type": 1,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 287,
+  "fields": {
+    "user_type": 4,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 288,
+  "fields": {
+    "user_type": 6,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 289,
+  "fields": {
+    "user_type": 3,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 290,
+  "fields": {
+    "user_type": 2,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 291,
+  "fields": {
+    "user_type": 8,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 292,
+  "fields": {
+    "user_type": 10,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 293,
+  "fields": {
+    "user_type": 5,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:27:12.595Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 294,
+  "fields": {
+    "user_type": 1,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 295,
+  "fields": {
+    "user_type": 4,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 296,
+  "fields": {
+    "user_type": 6,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:22.719Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 297,
+  "fields": {
+    "user_type": 3,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:34.258Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 298,
+  "fields": {
+    "user_type": 2,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 299,
+  "fields": {
+    "user_type": 8,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 300,
+  "fields": {
+    "user_type": 10,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:27:47.749Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 301,
+  "fields": {
+    "user_type": 5,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 302,
+  "fields": {
+    "user_type": 1,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 303,
+  "fields": {
+    "user_type": 4,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 304,
+  "fields": {
+    "user_type": 6,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:49.766Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 305,
+  "fields": {
+    "user_type": 3,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 306,
+  "fields": {
+    "user_type": 2,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 307,
+  "fields": {
+    "user_type": 8,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 308,
+  "fields": {
+    "user_type": 10,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 309,
+  "fields": {
+    "user_type": 5,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 310,
+  "fields": {
+    "user_type": 1,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 311,
+  "fields": {
+    "user_type": 4,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 312,
+  "fields": {
+    "user_type": 6,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:16.034Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 313,
+  "fields": {
+    "user_type": 3,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 314,
+  "fields": {
+    "user_type": 2,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 315,
+  "fields": {
+    "user_type": 8,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 316,
+  "fields": {
+    "user_type": 10,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 317,
+  "fields": {
+    "user_type": 5,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:27:14.965Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 318,
+  "fields": {
+    "user_type": 1,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 319,
+  "fields": {
+    "user_type": 4,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:30.840Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 320,
+  "fields": {
+    "user_type": 6,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:25.349Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 321,
+  "fields": {
+    "user_type": 3,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:26:39.663Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 322,
+  "fields": {
+    "user_type": 2,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:18.290Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 323,
+  "fields": {
+    "user_type": 8,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 324,
+  "fields": {
+    "user_type": 10,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:44.448Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 325,
+  "fields": {
+    "user_type": 5,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 326,
+  "fields": {
+    "user_type": 1,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 327,
+  "fields": {
+    "user_type": 4,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 328,
+  "fields": {
+    "user_type": 6,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 329,
+  "fields": {
+    "user_type": 3,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 330,
+  "fields": {
+    "user_type": 2,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 331,
+  "fields": {
+    "user_type": 8,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 332,
+  "fields": {
+    "user_type": 10,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 333,
+  "fields": {
+    "user_type": 5,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 334,
+  "fields": {
+    "user_type": 1,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-04-05T10:03:16.512Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 335,
+  "fields": {
+    "user_type": 4,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 336,
+  "fields": {
+    "user_type": 6,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:10.990Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 337,
+  "fields": {
+    "user_type": 3,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 338,
+  "fields": {
+    "user_type": 2,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 339,
+  "fields": {
+    "user_type": 8,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 340,
+  "fields": {
+    "user_type": 10,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 341,
+  "fields": {
+    "user_type": 5,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 342,
+  "fields": {
+    "user_type": 1,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 343,
+  "fields": {
+    "user_type": 4,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 344,
+  "fields": {
+    "user_type": 6,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 345,
+  "fields": {
+    "user_type": 3,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 346,
+  "fields": {
+    "user_type": 2,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 347,
+  "fields": {
+    "user_type": 8,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 348,
+  "fields": {
+    "user_type": 10,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 349,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:27:17.379Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 350,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 351,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 352,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:27.886Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 353,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 354,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 355,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 356,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 357,
+  "fields": {
+    "user_type": 5,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 358,
+  "fields": {
+    "user_type": 1,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 359,
+  "fields": {
+    "user_type": 4,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 360,
+  "fields": {
+    "user_type": 6,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 361,
+  "fields": {
+    "user_type": 3,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 362,
+  "fields": {
+    "user_type": 2,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 363,
+  "fields": {
+    "user_type": 8,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 364,
+  "fields": {
+    "user_type": 10,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 365,
+  "fields": {
+    "user_type": 5,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 366,
+  "fields": {
+    "user_type": 1,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:18:59.067Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 367,
+  "fields": {
+    "user_type": 4,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 368,
+  "fields": {
+    "user_type": 6,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:18.520Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 369,
+  "fields": {
+    "user_type": 3,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 370,
+  "fields": {
+    "user_type": 2,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 371,
+  "fields": {
+    "user_type": 8,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 372,
+  "fields": {
+    "user_type": 10,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 373,
+  "fields": {
+    "user_type": 5,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 374,
+  "fields": {
+    "user_type": 1,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:59:14.529Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 375,
+  "fields": {
+    "user_type": 4,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 376,
+  "fields": {
+    "user_type": 6,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:53.022Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 377,
+  "fields": {
+    "user_type": 3,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 378,
+  "fields": {
+    "user_type": 2,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 379,
+  "fields": {
+    "user_type": 8,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 380,
+  "fields": {
+    "user_type": 10,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 381,
+  "fields": {
+    "user_type": 5,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:59.150Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 382,
+  "fields": {
+    "user_type": 1,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:19:23.596Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 383,
+  "fields": {
+    "user_type": 4,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 384,
+  "fields": {
+    "user_type": 6,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:57.791Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 385,
+  "fields": {
+    "user_type": 3,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:58.354Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 386,
+  "fields": {
+    "user_type": 2,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:43.196Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 387,
+  "fields": {
+    "user_type": 8,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 388,
+  "fields": {
+    "user_type": 10,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 389,
+  "fields": {
+    "user_type": 5,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:27:31.828Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 390,
+  "fields": {
+    "user_type": 1,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 391,
+  "fields": {
+    "user_type": 4,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 392,
+  "fields": {
+    "user_type": 6,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:00.313Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 393,
+  "fields": {
+    "user_type": 3,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 394,
+  "fields": {
+    "user_type": 2,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 395,
+  "fields": {
+    "user_type": 8,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 396,
+  "fields": {
+    "user_type": 10,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 397,
+  "fields": {
+    "user_type": 5,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:53.795Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 398,
+  "fields": {
+    "user_type": 1,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:19:12.344Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 399,
+  "fields": {
+    "user_type": 4,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 400,
+  "fields": {
+    "user_type": 6,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:29:05.393Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 401,
+  "fields": {
+    "user_type": 3,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:50.565Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 402,
+  "fields": {
+    "user_type": 2,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:30.069Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 403,
+  "fields": {
+    "user_type": 8,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 404,
+  "fields": {
+    "user_type": 10,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 405,
+  "fields": {
+    "user_type": 5,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:35.219Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 406,
+  "fields": {
+    "user_type": 1,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 407,
+  "fields": {
+    "user_type": 4,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:17.169Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 408,
+  "fields": {
+    "user_type": 6,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:36.556Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 409,
+  "fields": {
+    "user_type": 3,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:01.741Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 410,
+  "fields": {
+    "user_type": 2,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:48.611Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 411,
+  "fields": {
+    "user_type": 8,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 412,
+  "fields": {
+    "user_type": 10,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:51.569Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 413,
+  "fields": {
+    "user_type": 5,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:41.773Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 414,
+  "fields": {
+    "user_type": 1,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:19:35.177Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 415,
+  "fields": {
+    "user_type": 4,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:17.169Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 416,
+  "fields": {
+    "user_type": 6,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:36.556Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 417,
+  "fields": {
+    "user_type": 3,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:07.051Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 418,
+  "fields": {
+    "user_type": 2,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:22:53.778Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 419,
+  "fields": {
+    "user_type": 8,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 420,
+  "fields": {
+    "user_type": 10,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:25:51.569Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 421,
+  "fields": {
+    "user_type": 5,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 422,
+  "fields": {
+    "user_type": 1,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 423,
+  "fields": {
+    "user_type": 4,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 424,
+  "fields": {
+    "user_type": 3,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 425,
+  "fields": {
+    "user_type": 2,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 426,
+  "fields": {
+    "user_type": 8,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 427,
+  "fields": {
+    "user_type": 10,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 428,
+  "fields": {
+    "user_type": 6,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:49.766Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 430,
+  "fields": {
+    "user_type": 6,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:49.766Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 431,
+  "fields": {
+    "user_type": 10,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 432,
+  "fields": {
+    "user_type": 8,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 433,
+  "fields": {
+    "user_type": 2,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 434,
+  "fields": {
+    "user_type": 3,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 435,
+  "fields": {
+    "user_type": 4,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 436,
+  "fields": {
+    "user_type": 1,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 437,
+  "fields": {
+    "user_type": 5,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 438,
+  "fields": {
+    "user_type": 6,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-27T09:28:49.766Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 439,
+  "fields": {
+    "user_type": 10,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 440,
+  "fields": {
+    "user_type": 8,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 441,
+  "fields": {
+    "user_type": 2,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:02:44.554Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 442,
+  "fields": {
+    "user_type": 3,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-10T07:01:54.733Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 443,
+  "fields": {
+    "user_type": 4,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 444,
+  "fields": {
+    "user_type": 1,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 445,
+  "fields": {
+    "user_type": 5,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-08T08:25:49.058Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 446,
+  "fields": {
+    "user_type": 5,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 447,
+  "fields": {
+    "user_type": 4,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 448,
+  "fields": {
+    "user_type": 3,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-05-26T11:19:08.308Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 449,
+  "fields": {
+    "user_type": 2,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 450,
+  "fields": {
+    "user_type": 1,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 451,
+  "fields": {
+    "user_type": 5,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 452,
+  "fields": {
+    "user_type": 4,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 453,
+  "fields": {
+    "user_type": 3,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 454,
+  "fields": {
+    "user_type": 2,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 455,
+  "fields": {
+    "user_type": 1,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 456,
+  "fields": {
+    "user_type": 5,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 457,
+  "fields": {
+    "user_type": 4,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 458,
+  "fields": {
+    "user_type": 3,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 459,
+  "fields": {
+    "user_type": 2,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 460,
+  "fields": {
+    "user_type": 1,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-11-21T11:21:06.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 461,
+  "fields": {
+    "user_type": 1,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:18:13.440Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 462,
+  "fields": {
+    "user_type": 2,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:21:54.073Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 463,
+  "fields": {
+    "user_type": 3,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:03.625Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 464,
+  "fields": {
+    "user_type": 4,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:20:58.494Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 465,
+  "fields": {
+    "user_type": 5,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 466,
+  "fields": {
+    "user_type": 6,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 478,
+  "fields": {
+    "user_type": 1,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 479,
+  "fields": {
+    "user_type": 2,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 480,
+  "fields": {
+    "user_type": 3,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 481,
+  "fields": {
+    "user_type": 4,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 482,
+  "fields": {
+    "user_type": 5,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 483,
+  "fields": {
+    "user_type": 6,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 484,
+  "fields": {
+    "user_type": 6,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 485,
+  "fields": {
+    "user_type": 5,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 486,
+  "fields": {
+    "user_type": 4,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 487,
+  "fields": {
+    "user_type": 3,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 488,
+  "fields": {
+    "user_type": 2,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 489,
+  "fields": {
+    "user_type": 1,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 490,
+  "fields": {
+    "user_type": 1,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 491,
+  "fields": {
+    "user_type": 2,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 492,
+  "fields": {
+    "user_type": 3,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 493,
+  "fields": {
+    "user_type": 4,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 494,
+  "fields": {
+    "user_type": 5,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 495,
+  "fields": {
+    "user_type": 6,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 496,
+  "fields": {
+    "user_type": 1,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 497,
+  "fields": {
+    "user_type": 2,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 498,
+  "fields": {
+    "user_type": 3,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 499,
+  "fields": {
+    "user_type": 4,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 500,
+  "fields": {
+    "user_type": 5,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 501,
+  "fields": {
+    "user_type": 6,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 502,
+  "fields": {
+    "user_type": 1,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 503,
+  "fields": {
+    "user_type": 2,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 504,
+  "fields": {
+    "user_type": 3,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 505,
+  "fields": {
+    "user_type": 4,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 506,
+  "fields": {
+    "user_type": 5,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 507,
+  "fields": {
+    "user_type": 6,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 508,
+  "fields": {
+    "user_type": 1,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 509,
+  "fields": {
+    "user_type": 2,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 510,
+  "fields": {
+    "user_type": 3,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 511,
+  "fields": {
+    "user_type": 4,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 512,
+  "fields": {
+    "user_type": 5,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 513,
+  "fields": {
+    "user_type": 6,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 514,
+  "fields": {
+    "user_type": 1,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 515,
+  "fields": {
+    "user_type": 2,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 516,
+  "fields": {
+    "user_type": 3,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 517,
+  "fields": {
+    "user_type": 4,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 518,
+  "fields": {
+    "user_type": 5,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 519,
+  "fields": {
+    "user_type": 6,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 520,
+  "fields": {
+    "user_type": 13,
+    "module": 45,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:01.997Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 521,
+  "fields": {
+    "user_type": 13,
+    "module": 45,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.011Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 522,
+  "fields": {
+    "user_type": 13,
+    "module": 46,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.018Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 523,
+  "fields": {
+    "user_type": 13,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.025Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 524,
+  "fields": {
+    "user_type": 13,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.038Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 525,
+  "fields": {
+    "user_type": 13,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.045Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 526,
+  "fields": {
+    "user_type": 13,
+    "module": 1,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.051Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 527,
+  "fields": {
+    "user_type": 13,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.057Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 528,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.063Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 529,
+  "fields": {
+    "user_type": 13,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.067Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 530,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.071Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 531,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.076Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 532,
+  "fields": {
+    "user_type": 13,
+    "module": 7,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.080Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 533,
+  "fields": {
+    "user_type": 13,
+    "module": 8,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.084Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 534,
+  "fields": {
+    "user_type": 13,
+    "module": 5,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.087Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 535,
+  "fields": {
+    "user_type": 13,
+    "module": 9,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.091Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 536,
+  "fields": {
+    "user_type": 13,
+    "module": 10,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.095Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 537,
+  "fields": {
+    "user_type": 13,
+    "module": 11,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.099Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 538,
+  "fields": {
+    "user_type": 13,
+    "module": 12,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.103Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 539,
+  "fields": {
+    "user_type": 13,
+    "module": 13,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.107Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 540,
+  "fields": {
+    "user_type": 13,
+    "module": 14,
+    "hardware_device": 1,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.113Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 541,
+  "fields": {
+    "user_type": 13,
+    "module": 15,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.117Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 542,
+  "fields": {
+    "user_type": 13,
+    "module": 6,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.121Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 543,
+  "fields": {
+    "user_type": 13,
+    "module": 16,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.126Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 544,
+  "fields": {
+    "user_type": 13,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.130Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 545,
+  "fields": {
+    "user_type": 13,
+    "module": 18,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.134Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 546,
+  "fields": {
+    "user_type": 13,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.138Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 547,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.143Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 548,
+  "fields": {
+    "user_type": 13,
+    "module": 19,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.147Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 549,
+  "fields": {
+    "user_type": 13,
+    "module": 20,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.151Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 550,
+  "fields": {
+    "user_type": 13,
+    "module": 21,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.156Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 551,
+  "fields": {
+    "user_type": 13,
+    "module": 22,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.160Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 552,
+  "fields": {
+    "user_type": 13,
+    "module": 23,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.164Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 553,
+  "fields": {
+    "user_type": 13,
+    "module": 24,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.168Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 554,
+  "fields": {
+    "user_type": 13,
+    "module": 25,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.173Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 555,
+  "fields": {
+    "user_type": 13,
+    "module": 26,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.177Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 556,
+  "fields": {
+    "user_type": 13,
+    "module": 27,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.181Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 557,
+  "fields": {
+    "user_type": 13,
+    "module": 28,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.185Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 558,
+  "fields": {
+    "user_type": 13,
+    "module": 29,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.192Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 559,
+  "fields": {
+    "user_type": 13,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.199Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 560,
+  "fields": {
+    "user_type": 13,
+    "module": 30,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.206Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 561,
+  "fields": {
+    "user_type": 13,
+    "module": 17,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.214Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 562,
+  "fields": {
+    "user_type": 13,
+    "module": 31,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.221Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 563,
+  "fields": {
+    "user_type": 13,
+    "module": 7,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.229Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 564,
+  "fields": {
+    "user_type": 13,
+    "module": 32,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.236Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 565,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.243Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 566,
+  "fields": {
+    "user_type": 13,
+    "module": 6,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.251Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 567,
+  "fields": {
+    "user_type": 13,
+    "module": 2,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.258Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 568,
+  "fields": {
+    "user_type": 13,
+    "module": 33,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.264Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 569,
+  "fields": {
+    "user_type": 13,
+    "module": 34,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.270Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 570,
+  "fields": {
+    "user_type": 13,
+    "module": 35,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.275Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 571,
+  "fields": {
+    "user_type": 13,
+    "module": 4,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.280Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 572,
+  "fields": {
+    "user_type": 13,
+    "module": 36,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.284Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 573,
+  "fields": {
+    "user_type": 13,
+    "module": 37,
+    "hardware_device": 2,
+    "operation": 3,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.287Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 574,
+  "fields": {
+    "user_type": 13,
+    "module": 38,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.291Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 575,
+  "fields": {
+    "user_type": 13,
+    "module": 39,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:53:07.971Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 576,
+  "fields": {
+    "user_type": 13,
+    "module": 40,
+    "hardware_device": 2,
+    "operation": 2,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.298Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 577,
+  "fields": {
+    "user_type": 13,
+    "module": 41,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.302Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 578,
+  "fields": {
+    "user_type": 13,
+    "module": 42,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.306Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 579,
+  "fields": {
+    "user_type": 13,
+    "module": 43,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.312Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 580,
+  "fields": {
+    "user_type": 13,
+    "module": 44,
+    "hardware_device": 1,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.318Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 581,
+  "fields": {
+    "user_type": 13,
+    "module": 3,
+    "hardware_device": 1,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.323Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 582,
+  "fields": {
+    "user_type": 13,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 1,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.328Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 583,
+  "fields": {
+    "user_type": 13,
+    "module": 47,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.332Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 584,
+  "fields": {
+    "user_type": 13,
+    "module": 48,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.336Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 585,
+  "fields": {
+    "user_type": 13,
+    "module": 49,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-06-08T07:46:02.339Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 586,
+  "fields": {
+    "user_type": 1,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 587,
+  "fields": {
+    "user_type": 2,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 588,
+  "fields": {
+    "user_type": 3,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 589,
+  "fields": {
+    "user_type": 4,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 590,
+  "fields": {
+    "user_type": 5,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 591,
+  "fields": {
+    "user_type": 6,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 592,
+  "fields": {
+    "user_type": 13,
+    "module": 50,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 593,
+  "fields": {
+    "user_type": 1,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 594,
+  "fields": {
+    "user_type": 2,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 595,
+  "fields": {
+    "user_type": 3,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 596,
+  "fields": {
+    "user_type": 4,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 597,
+  "fields": {
+    "user_type": 5,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 598,
+  "fields": {
+    "user_type": 6,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 599,
+  "fields": {
+    "user_type": 13,
+    "module": 51,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 600,
+  "fields": {
+    "user_type": 1,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 601,
+  "fields": {
+    "user_type": 2,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 602,
+  "fields": {
+    "user_type": 3,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 603,
+  "fields": {
+    "user_type": 4,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 604,
+  "fields": {
+    "user_type": 5,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 605,
+  "fields": {
+    "user_type": 6,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 606,
+  "fields": {
+    "user_type": 13,
+    "module": 52,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 607,
+  "fields": {
+    "user_type": 1,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 608,
+  "fields": {
+    "user_type": 2,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 609,
+  "fields": {
+    "user_type": 3,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 610,
+  "fields": {
+    "user_type": 4,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 611,
+  "fields": {
+    "user_type": 5,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 612,
+  "fields": {
+    "user_type": 6,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 613,
+  "fields": {
+    "user_type": 13,
+    "module": 53,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 614,
+  "fields": {
+    "user_type": 1,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 615,
+  "fields": {
+    "user_type": 2,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 616,
+  "fields": {
+    "user_type": 3,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 617,
+  "fields": {
+    "user_type": 4,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 618,
+  "fields": {
+    "user_type": 5,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 619,
+  "fields": {
+    "user_type": 6,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 620,
+  "fields": {
+    "user_type": 13,
+    "module": 54,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 621,
+  "fields": {
+    "user_type": 1,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 622,
+  "fields": {
+    "user_type": 2,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 623,
+  "fields": {
+    "user_type": 3,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 624,
+  "fields": {
+    "user_type": 4,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 625,
+  "fields": {
+    "user_type": 5,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 626,
+  "fields": {
+    "user_type": 6,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 627,
+  "fields": {
+    "user_type": 13,
+    "module": 55,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 628,
+  "fields": {
+    "user_type": 1,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 629,
+  "fields": {
+    "user_type": 2,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 630,
+  "fields": {
+    "user_type": 3,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:24:36.845Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 631,
+  "fields": {
+    "user_type": 4,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 632,
+  "fields": {
+    "user_type": 5,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": false,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2021-03-17T13:25:21.867Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 633,
+  "fields": {
+    "user_type": 6,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+},
+{
+  "model": "instance.usertypebasedaccesscontrol",
+  "pk": 634,
+  "fields": {
+    "user_type": 13,
+    "module": 57,
+    "hardware_device": 2,
+    "operation": 4,
+    "access": true,
+    "created_by": 2,
+    "modified_by": 2,
+    "time_modified": "2020-07-09T12:01:27.961Z"
+  }
+}
+]

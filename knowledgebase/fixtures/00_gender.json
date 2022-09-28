@@ -1,0 +1,23 @@
+[
+{
+  "model": "knowledgebase.gender",
+  "pk": 1,
+  "fields": {
+    "name": "Male"
+  }
+},
+{
+  "model": "knowledgebase.gender",
+  "pk": 2,
+  "fields": {
+    "name": "Female"
+  }
+},
+{
+  "model": "knowledgebase.gender",
+  "pk": 5,
+  "fields": {
+    "name": "transegender"
+  }
+}
+]

@@ -1,0 +1,58 @@
+[
+{
+  "model": "inputdistri.storage",
+  "pk": 1,
+  "fields": {
+    "business": 1,
+    "name": "Godown 1",
+    "type": 1,
+    "address": "main block",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+},
+{
+  "model": "inputdistri.storage",
+  "pk": 2,
+  "fields": {
+    "business": 1,
+    "name": "Godown 2",
+    "type": 1,
+    "address": "main block",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+},
+{
+  "model": "inputdistri.storage",
+  "pk": 3,
+  "fields": {
+    "business": 1,
+    "name": "Godown 3",
+    "type": 2,
+    "address": "main block",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+},
+{
+  "model": "inputdistri.storage",
+  "pk": 4,
+  "fields": {
+    "business": 1,
+    "name": "Godown 4",
+    "type": 2,
+    "address": "main block",
+    "latitude": null,
+    "longitude": null,
+    "created_by": 1,
+    "time_created": "2020-03-13T05:13:39Z"
+  }
+}
+]

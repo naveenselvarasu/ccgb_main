@@ -1,0 +1,296 @@
+[
+{
+  "model": "main.tile",
+  "pk": 1,
+  "fields": {
+    "name": "My Farm",
+    "display_name": "My Farm",
+    "route_url": "my_farm",
+    "tab_name": "my_farm",
+    "icon_path": "assets/home-tile-icons/my_farm.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:10:43.478"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 2,
+  "fields": {
+    "name": "Ask Expert",
+    "display_name": "Ask Expert",
+    "route_url": "ask_expert",
+    "tab_name": "ask_expert",
+    "icon_path": "assets/home-tile-icons/ask.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 3,
+  "fields": {
+    "name": "Recommendation",
+    "display_name": "Recommendation",
+    "route_url": "recommendation",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:05.884"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 4,
+  "fields": {
+    "name": "Weather",
+    "display_name": "Weather",
+    "route_url": "/weather/report",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:21.211"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 5,
+  "fields": {
+    "name": "FAQ",
+    "display_name": "FAQ",
+    "route_url": "faq",
+    "tab_name": "faq",
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:31.368"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 6,
+  "fields": {
+    "name": "NEWS",
+    "display_name": "NEWS",
+    "route_url": "/news",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:45.362"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 7,
+  "fields": {
+    "name": "Events",
+    "display_name": "Events",
+    "route_url": "/events",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:59.439"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 8,
+  "fields": {
+    "name": "Helpline",
+    "display_name": "Helpline",
+    "route_url": "/helpline",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 9,
+  "fields": {
+    "name": "Register Expense",
+    "display_name": "Register Expense",
+    "route_url": "register/expensive",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 10,
+  "fields": {
+    "name": "Show Expense",
+    "display_name": "Show Expense",
+    "route_url": "show/expense",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 11,
+  "fields": {
+    "name": "Advisory",
+    "display_name": "Advisory",
+    "route_url": "advisory",
+    "tab_name": "Advisory",
+    "icon_path": "assets/home-tile-icons/advice.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 12,
+  "fields": {
+    "name": "Directory",
+    "display_name": "Directory",
+    "route_url": "/directory/list",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 13,
+  "fields": {
+    "name": "Language",
+    "display_name": "Language",
+    "route_url": "/app/language",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-21T17:57:22.888"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 14,
+  "fields": {
+    "name": "MarketPrice",
+    "display_name": "MarketPrice",
+    "route_url": " ",
+    "tab_name": null,
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:59.439"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 15,
+  "fields": {
+    "name": "RAQ",
+    "display_name": "RAQ",
+    "route_url": "raq",
+    "tab_name": "raq",
+    "icon_path": null,
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:59.439"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 16,
+  "fields": {
+    "name": "My Nursery",
+    "display_name": "My Nursery",
+    "route_url": "my-nursery",
+    "tab_name": "my_nursery",
+    "icon_path": "assets/home-tile-icons/farm.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:12:59.439"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 17,
+  "fields": {
+    "name": "Ask Expert",
+    "display_name": "Ask Expert",
+    "route_url": "ask/expert",
+    "tab_name": "recommendation",
+    "icon_path": "assets/home-tile-icons/farm.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 18,
+  "fields": {
+    "name": "Nursery",
+    "display_name": "Nursery",
+    "route_url": "my_nursery",
+    "tab_name": "recommendation",
+    "icon_path": "assets/home-tile-icons/nursery.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 19,
+  "fields": {
+    "name": "Dashboard",
+    "display_name": "Dashboard",
+    "route_url": "farmer-dashboard",
+    "tab_name": "recommendation",
+    "icon_path": "assets/home-tile-icons/dash.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 20,
+  "fields": {
+    "name": "Resources",
+    "display_name": "Resources",
+    "route_url": "resources",
+    "tab_name": "recommendation",
+    "icon_path": "assets/home-tile-icons/resources.svg",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+},
+{
+  "model": "main.tile",
+  "pk": 21,
+  "fields": {
+    "name": "Market",
+    "display_name": "MARKET",
+    "route_url": "",
+    "tab_name": "recommendation",
+    "icon_path": "",
+    "is_active": true,
+    "time_created": "2021-04-21T17:57:20.957",
+    "time_modified": "2021-04-22T12:11:44.526"
+  }
+}
+]

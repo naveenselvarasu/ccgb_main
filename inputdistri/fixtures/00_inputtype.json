@@ -1,0 +1,23 @@
+[
+{
+  "model": "inputdistri.inputtype",
+  "pk": 1,
+  "fields": {
+    "name": "Seed"
+  }
+},
+{
+  "model": "inputdistri.inputtype",
+  "pk": 2,
+  "fields": {
+    "name": "Agrochemical"
+  }
+},
+{
+  "model": "inputdistri.inputtype",
+  "pk": 3,
+  "fields": {
+    "name": "Fertilizer"
+  }
+}
+]

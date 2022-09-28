@@ -1,0 +1,9 @@
+[
+{
+  "model": "instance.businesstype",
+  "pk": 1,
+  "fields": {
+    "name": "Private Limited Company"
+  }
+}
+]

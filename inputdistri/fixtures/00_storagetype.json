@@ -1,0 +1,16 @@
+[
+{
+  "model": "inputdistri.storagetype",
+  "pk": 1,
+  "fields": {
+    "name": "Cold Storage"
+  }
+},
+{
+  "model": "inputdistri.storagetype",
+  "pk": 2,
+  "fields": {
+    "name": "Normal Storage"
+  }
+}
+]

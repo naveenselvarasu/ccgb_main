@@ -1,0 +1,16 @@
+[
+{
+  "model": "inputdistri.upordown",
+  "pk": 1,
+  "fields": {
+    "name": "Up"
+  }
+},
+{
+  "model": "inputdistri.upordown",
+  "pk": 2,
+  "fields": {
+    "name": "Down"
+  }
+}
+]

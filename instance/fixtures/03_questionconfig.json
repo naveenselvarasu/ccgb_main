@@ -1,0 +1,30 @@
+{
+"instance_questionconfig": [
+	{
+		"id" : 2,
+		"required" : false,
+		"create_new_answer_row_on_update" : false,
+		"depends_on_question_id" : null,
+		"question_id" : 2,
+		"question_type_id" : 5,
+		"show_when_the_answer_is_id" : null
+	},
+	{
+		"id" : 3,
+		"required" : false,
+		"create_new_answer_row_on_update" : false,
+		"depends_on_question_id" : null,
+		"question_id" : 5,
+		"question_type_id" : 5,
+		"show_when_the_answer_is_id" : null
+	},
+	{
+		"id" : 1,
+		"required" : false,
+		"create_new_answer_row_on_update" : false,
+		"depends_on_question_id" : null,
+		"question_id" : 1,
+		"question_type_id" : 5,
+		"show_when_the_answer_is_id" : null
+	}
+]}

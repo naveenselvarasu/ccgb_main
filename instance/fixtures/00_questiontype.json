@@ -1,0 +1,23 @@
+{
+"instance_questiontype": [
+	{
+		"id" : 1,
+		"name" : "text"
+	},
+	{
+		"id" : 2,
+		"name" : "number"
+	},
+	{
+		"id" : 3,
+		"name" : "radio"
+	},
+	{
+		"id" : 4,
+		"name" : "checkbox"
+	},
+	{
+		"id" : 5,
+		"name" : "dropdown"
+	}
+]}

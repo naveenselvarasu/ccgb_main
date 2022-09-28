@@ -1,0 +1,24 @@
+{
+"instance_question": [
+	{
+		"id" : 1,
+		"text" : "Gender",
+		"is_active" : true,
+		"ordinal" : "1",
+		"subsection_id" : 1
+	},
+	{
+		"id" : 2,
+		"text" : "Education",
+		"is_active" : true,
+		"ordinal" : "2",
+		"subsection_id" : 1
+	},
+	{
+		"id" : 5,
+		"text" : "Caste",
+		"is_active" : true,
+		"ordinal" : "3",
+		"subsection_id" : 1
+	}
+]}

@@ -1,0 +1,87 @@
+{
+"instance_questionanswerchoice": [
+	{
+		"id" : 1,
+		"text" : "Male",
+		"ordinal" : "1",
+		"question_id" : 1
+	},
+	{
+		"id" : 4,
+		"text" : "None",
+		"ordinal" : "1",
+		"question_id" : 2
+	},
+	{
+		"id" : 2,
+		"text" : "Female",
+		"ordinal" : "2",
+		"question_id" : 1
+	},
+	{
+		"id" : 3,
+		"text" : "Transgender",
+		"ordinal" : "3",
+		"question_id" : 1
+	},
+	{
+		"id" : 6,
+		"text" : "Primary",
+		"ordinal" : "2",
+		"question_id" : 2
+	},
+	{
+		"id" : 7,
+		"text" : "Secondary",
+		"ordinal" : "3",
+		"question_id" : 2
+	},
+	{
+		"id" : 8,
+		"text" : "12",
+		"ordinal" : "4",
+		"question_id" : 2
+	},
+	{
+		"id" : 9,
+		"text" : "UG",
+		"ordinal" : "5",
+		"question_id" : 2
+	},
+	{
+		"id" : 10,
+		"text" : "PG",
+		"ordinal" : "6",
+		"question_id" : 2
+	},
+	{
+		"id" : 11,
+		"text" : "Doctorate",
+		"ordinal" : "7",
+		"question_id" : 2
+	},
+	{
+		"id" : 12,
+		"text" : "OBC",
+		"ordinal" : "1",
+		"question_id" : 5
+	},
+	{
+		"id" : 13,
+		"text" : "SC",
+		"ordinal" : "2",
+		"question_id" : 5
+	},
+	{
+		"id" : 14,
+		"text" : "OC",
+		"ordinal" : "3",
+		"question_id" : 5
+	},
+	{
+		"id" : 15,
+		"text" : "Others",
+		"ordinal" : "4",
+		"question_id" : 5
+	}
+]}

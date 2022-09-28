@@ -1,0 +1,19 @@
+[
+{
+  "model": "instance.business",
+  "pk": 1,
+  "fields": {
+    "name": "CCGB",
+    "shortname": "ccgb",
+    "url": "https://ccgb.com",
+    "email": "ccgb@gmail.com",
+    "mobile": "9826625456",
+    "pincode": 641025,
+    "state": 1,
+    "district": 1,
+    "taluk": 2,
+    "street": "street",
+    "business_type": 1
+  }
+}
+]

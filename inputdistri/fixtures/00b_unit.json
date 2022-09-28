@@ -1,0 +1,46 @@
+[
+{
+  "model": "inputdistri.unit",
+  "pk": 1,
+  "fields": {
+    "type": 1,
+    "name": "kg",
+    "base_unit": 1,
+    "factor_to_base_si_unit": 1,
+    "direction_to_base_si_unit": 1
+  }
+},
+{
+  "model": "inputdistri.unit",
+  "pk": 2,
+  "fields": {
+    "type": 2,
+    "name": "lit",
+    "base_unit": 2,
+    "factor_to_base_si_unit": 1,
+    "direction_to_base_si_unit": 1
+  }
+},
+{
+  "model": "inputdistri.unit",
+  "pk": 3,
+  "fields": {
+    "type": 3,
+    "name": "metre",
+    "base_unit": 3,
+    "factor_to_base_si_unit": 1,
+    "direction_to_base_si_unit": 1
+  }
+},
+{
+  "model": "inputdistri.unit",
+  "pk": 4,
+  "fields": {
+    "type": 4,
+    "name": "nos",
+    "base_unit": 4,
+    "factor_to_base_si_unit": 1,
+    "direction_to_base_si_unit": 1
+  }
+}
+]

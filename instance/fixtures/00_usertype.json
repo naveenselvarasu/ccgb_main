@@ -1,0 +1,75 @@
+[
+{
+  "model": "instance.usertype",
+  "pk": 1,
+  "fields": {
+    "name": "General Manager",
+    "notes": null,
+    "ordinal": 1
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 2,
+  "fields": {
+    "name": "Assistant Manager (Agri)",
+    "notes": null,
+    "ordinal": 2
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 3,
+  "fields": {
+    "name": "Senior Field Supervisor",
+    "notes": null,
+    "ordinal": 3
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 4,
+  "fields": {
+    "name": "Agriculture Officer",
+    "notes": null,
+    "ordinal": 4
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 5,
+  "fields": {
+    "name": "Asst Field Supervisor",
+    "notes": null,
+    "ordinal": 5
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 6,
+  "fields": {
+    "name": "Agent",
+    "notes": null,
+    "ordinal": 6
+  }
+},
+{
+  "model": "instance.usertype",
+  "pk": 7,
+  "fields": {
+    "name": "Farmer",
+    "notes": null,
+    "ordinal": 7
+  }
+}
+  ,
+{
+  "model": "instance.usertype",
+  "pk": 8,
+  "fields": {
+    "name": "Software Developers",
+    "notes": null,
+    "ordinal": 8
+  }
+}
+]

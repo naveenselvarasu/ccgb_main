@@ -1,0 +1,30 @@
+[
+{
+  "model": "inputdistri.unittype",
+  "pk": 1,
+  "fields": {
+    "name": "Weight"
+  }
+},
+{
+  "model": "inputdistri.unittype",
+  "pk": 2,
+  "fields": {
+    "name": "Volume"
+  }
+},
+{
+  "model": "inputdistri.unittype",
+  "pk": 3,
+  "fields": {
+    "name": "Length"
+  }
+},
+{
+  "model": "inputdistri.unittype",
+  "pk": 4,
+  "fields": {
+    "name": "Count"
+  }
+}
+]

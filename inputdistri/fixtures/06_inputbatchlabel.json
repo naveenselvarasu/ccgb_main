@@ -1,0 +1,46 @@
+[
+{
+  "model": "inputdistri.inputbatchlabel",
+  "pk": 1,
+  "fields": {
+    "input_item_input_batch": 1,
+    "label_prefix": "Old500_",
+    "label_suffix": "CCGB",
+    "label_range_start": 1,
+    "label_range_end": 1000
+  }
+},
+{
+  "model": "inputdistri.inputbatchlabel",
+  "pk": 2,
+  "fields": {
+    "input_item_input_batch": 2,
+    "label_prefix": "Old1000_",
+    "label_suffix": "CCGB",
+    "label_range_start": 1,
+    "label_range_end": 500
+  }
+},
+{
+  "model": "inputdistri.inputbatchlabel",
+  "pk": 3,
+  "fields": {
+    "input_item_input_batch": 3,
+    "label_prefix": "New500_",
+    "label_suffix": "CCGB",
+    "label_range_start": 1,
+    "label_range_end": 2000
+  }
+},
+{
+  "model": "inputdistri.inputbatchlabel",
+  "pk": 4,
+  "fields": {
+    "input_item_input_batch": 4,
+    "label_prefix": "New1000_",
+    "label_suffix": "CCGB",
+    "label_range_start": 1,
+    "label_range_end": 500
+  }
+}
+]
